@@ -1,4 +1,4 @@
-using UnityEngine;
+﻿using UnityEngine;
 
 public class CameraMover2D : MonoBehaviour
 {
@@ -10,26 +10,43 @@ public class CameraMover2D : MonoBehaviour
     void Update()
     {
         if (currentIndex >= checkpoints.Length)
-            return; // No more checkpoints
+            return;
 
-        // Target position (X only, keep camera Y/Z)
+        Checkpoint cp = checkpoints[currentIndex];
+
+        // Target X position only
         Vector3 target = new Vector3(
-            checkpoints[currentIndex].transform.position.x,
+            cp.transform.position.x,
             transform.position.y,
             transform.position.z
         );
 
-        // Move horizontally toward the checkpoint
-        transform.position = Vector3.MoveTowards(
-            transform.position,
-            target,
-            moveSpeed * Time.deltaTime
-        );
-
-        // Check if we reached the checkpoint
-        if (Vector3.Distance(transform.position, target) < 0.05f)
+        // If we have NOT reached the checkpoint yet → KEEP MOVING
+        if (transform.position.x != target.x)
         {
-            currentIndex++;
+            transform.position = Vector3.MoveTowards(
+                transform.position,
+                target,
+                moveSpeed * Time.deltaTime
+            );
+
+            return; // still moving, no need to check clearing
         }
+
+        // We reached the checkpoint
+
+        // Trigger loading bar activation (ONLY once when arriving)
+        CheckpointActivator activator = cp.GetComponent<CheckpointActivator>();
+        if (activator != null && !cp.isCleared)
+        {
+            activator.Activate();
+        }
+
+        // WAIT here until checkpoint is cleared
+        if (!cp.isCleared)
+            return;
+
+        // Continue to next checkpoint
+        currentIndex++;
     }
 }

@@ -119,50 +119,6 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
---- !u!1 &43671803
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 43671804}
-  - component: {fileID: 43671805}
-  m_Layer: 0
-  m_Name: Checkpoint 2
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!4 &43671804
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 43671803}
-  serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 22.83, y: -3.227015, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 1636949827}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &43671805
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 43671803}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 2fecc34d933943941a09239d0e1f1807, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1 &108691120
 GameObject:
   m_ObjectHideFlags: 0
@@ -290,7 +246,6 @@ MonoBehaviour:
   moveSpeed: 3
   checkpoints:
   - {fileID: 1102801870}
-  - {fileID: 43671805}
   - {fileID: 1001564216}
   - {fileID: 1029161876}
   - {fileID: 516925653}
@@ -408,6 +363,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   acceptedItemId: Stop
   placePoint: {fileID: 247221303}
+  checkpointToClear: {fileID: 0}
 --- !u!4 &247221303
 Transform:
   m_ObjectHideFlags: 0
@@ -615,6 +571,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 509865301}
+  - component: {fileID: 509865302}
   m_Layer: 0
   m_Name: Traffic light
   m_TagString: Untagged
@@ -639,6 +596,21 @@ Transform:
   - {fileID: 862577391}
   m_Father: {fileID: 1443650057}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &509865302
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 509865300}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 991554a0a4083e34f972b93820487a47, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  redLight: {fileID: 1616209081}
+  greenLight: {fileID: 862577390}
+  checkpointToClear: {fileID: 1029161876}
 --- !u!1 &511242445
 GameObject:
   m_ObjectHideFlags: 0
@@ -885,6 +857,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2fecc34d933943941a09239d0e1f1807, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  isCleared: 0
 --- !u!1 &519420028
 GameObject:
   m_ObjectHideFlags: 0
@@ -1144,7 +1117,7 @@ RectTransform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 635848066}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 5.0586, y: 5.0586, z: 5.0586}
   m_ConstrainProportionsScale: 0
@@ -1153,11 +1126,11 @@ RectTransform:
   - {fileID: 943624513}
   - {fileID: 150918423}
   - {fileID: 1498242028}
-  m_Father: {fileID: 1945014362}
+  m_Father: {fileID: 1335519726}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -498, y: -458}
+  m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 160, y: 20}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &635848068
@@ -1175,6 +1148,7 @@ MonoBehaviour:
   slider: {fileID: 635848069}
   percentageText: {fileID: 1498242029}
   autoFillSpeed: 0.2
+  trafficLight: {fileID: 509865302}
 --- !u!114 &635848069
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1237,7 +1211,7 @@ GameObject:
   - component: {fileID: 862577391}
   - component: {fileID: 862577392}
   m_Layer: 0
-  m_Name: traffic light1
+  m_Name: traffic light (green
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1596,6 +1570,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1001564215}
   - component: {fileID: 1001564216}
+  - component: {fileID: 1001564217}
   m_Layer: 0
   m_Name: Checkpoint 3
   m_TagString: Untagged
@@ -1630,6 +1605,20 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2fecc34d933943941a09239d0e1f1807, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  isCleared: 0
+--- !u!114 &1001564217
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1001564214}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ca48baac6be4784458750405aa6bc3d8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadingBar: {fileID: 0}
 --- !u!1 &1012642176
 GameObject:
   m_ObjectHideFlags: 0
@@ -1781,6 +1770,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1029161875}
   - component: {fileID: 1029161876}
+  - component: {fileID: 1029161877}
   m_Layer: 0
   m_Name: Checkpoint 4
   m_TagString: Untagged
@@ -1815,6 +1805,20 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2fecc34d933943941a09239d0e1f1807, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  isCleared: 0
+--- !u!114 &1029161877
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1029161874}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ca48baac6be4784458750405aa6bc3d8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadingBar: {fileID: 635848068}
 --- !u!1 &1062587100
 GameObject:
   m_ObjectHideFlags: 0
@@ -1900,6 +1904,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1102801869}
   - component: {fileID: 1102801870}
+  - component: {fileID: 1102801871}
   m_Layer: 0
   m_Name: Checkpoint 1
   m_TagString: Untagged
@@ -1934,6 +1939,20 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2fecc34d933943941a09239d0e1f1807, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  isCleared: 0
+--- !u!114 &1102801871
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1102801868}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ca48baac6be4784458750405aa6bc3d8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadingBar: {fileID: 0}
 --- !u!1 &1120840263
 GameObject:
   m_ObjectHideFlags: 0
@@ -2298,6 +2317,42 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   parallaxFactor: 0.2
+--- !u!1 &1335519725
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1335519726}
+  m_Layer: 5
+  m_Name: GameObject
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &1335519726
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1335519725}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 635848067}
+  m_Father: {fileID: 1945014362}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: -498, y: -458}
+  m_SizeDelta: {x: 809.376, y: 101.172}
+  m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &1380391129
 GameObject:
   m_ObjectHideFlags: 0
@@ -2739,6 +2794,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   acceptedItemId: Blank
   placePoint: {fileID: 1547299457}
+  checkpointToClear: {fileID: 1001564216}
 --- !u!4 &1547299457
 Transform:
   m_ObjectHideFlags: 0
@@ -2914,7 +2970,7 @@ GameObject:
   - component: {fileID: 1616209082}
   - component: {fileID: 1616209083}
   m_Layer: 0
-  m_Name: traffic light
+  m_Name: traffic light (red
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3020,7 +3076,6 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 1102801869}
-  - {fileID: 43671804}
   - {fileID: 1001564215}
   - {fileID: 1029161875}
   - {fileID: 516925652}
@@ -3253,6 +3308,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   acceptedItemId: Path
   placePoint: {fileID: 1782619214}
+  checkpointToClear: {fileID: 1102801870}
 --- !u!4 &1782619214
 Transform:
   m_ObjectHideFlags: 0
@@ -3550,7 +3606,7 @@ RectTransform:
   m_LocalScale: {x: 0, y: 0, z: 0}
   m_ConstrainProportionsScale: 0
   m_Children:
-  - {fileID: 635848067}
+  - {fileID: 1335519726}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
