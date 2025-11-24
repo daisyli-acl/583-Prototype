@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1706.6667
     height: 976
   m_ShowMode: 4
-  m_Title: Hierarchy
+  m_Title: Scene
   m_RootView: {fileID: 2}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -44,7 +44,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 1706.6667
+    width: 1706.6666
     height: 976
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -69,7 +69,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 1706.6667
+    width: 1706.6666
     height: 36
   m_MinSize: {x: 0, y: 0}
   m_MaxSize: {x: 0, y: 0}
@@ -91,7 +91,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 956
-    width: 1706.6667
+    width: 1706.6666
     height: 20
   m_MinSize: {x: 0, y: 0}
   m_MaxSize: {x: 0, y: 0}
@@ -115,12 +115,12 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 36
-    width: 1706.6667
+    width: 1706.6666
     height: 920
   m_MinSize: {x: 400, y: 100}
   m_MaxSize: {x: 32384, y: 16192}
   vertical: 0
-  controlID: 19889
+  controlID: 38
   draggingID: 0
 --- !u!114 &6
 MonoBehaviour:
@@ -172,7 +172,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 1
-  controlID: 19890
+  controlID: 39
   draggingID: 0
 --- !u!114 &8
 MonoBehaviour:
@@ -198,7 +198,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 50}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-  controlID: 19891
+  controlID: 40
   draggingID: 0
 --- !u!114 &9
 MonoBehaviour:
@@ -298,7 +298,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1306.6666
     y: 0
-    width: 400.00012
+    width: 400
     height: 920
   m_MinSize: {x: 276, y: 76}
   m_MaxSize: {x: 4001, y: 4026}
@@ -451,18 +451,18 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: accdfcff50d0fcfffe0ffdff9033fdffa269fdffd479feffae7bfeffaa92feff789dfeff4c80fffff8faffffc0b200002cbf0000aabf000004c000004cd200002ed3000090d300009cd30000cad3000018d4000008de000092de0000c6de0000dede0000e4de000058df000096df0000a2df0000aedf0000badf0000d2df0000f8df00002ae00000a013010068140100a8140100f014010034150100de290100122a0100a62a0100262b0100782b01004443010098450100b04501006c46010096460100f6460100
+      m_ExpandedIDs: 0afbffffdcb1000082b20000eab2000010b30000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
-        m_Name: Puddle
-        m_OriginalName: Puddle
+        m_Name: Checkpoint 5
+        m_OriginalName: Checkpoint 5
         m_EditFieldRect:
           serializedVersion: 2
           x: 0
           y: 0
           width: 0
           height: 0
-        m_UserData: 83612
+        m_UserData: 45822
         m_IsWaitingForDelay: 0
         m_IsRenaming: 0
         m_OriginalEventType: 0
@@ -1097,9 +1097,9 @@ MonoBehaviour:
   m_AudioPlay: 0
   m_DebugDrawModesUseInteractiveLightBakingData: 0
   m_Position:
-    m_Target: {x: -16.901566, y: -6.3661523, z: -0.087849155}
+    m_Target: {x: 18.782793, y: -0.15475893, z: -0.33610746}
     speed: 2
-    m_Value: {x: -16.901566, y: -6.3661523, z: -0.087849155}
+    m_Value: {x: 19.07188, y: 0.60245126, z: -0.32372278}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -1149,9 +1149,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 12.602668
+    m_Target: 28.760132
     speed: 2
-    m_Value: 12.602668
+    m_Value: 27.521658
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -1772,7 +1772,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets
+    - Assets/Texture/level2/flower
     m_Globs: []
     m_ProductIds: 
     m_AnyWithAssetOrigin: 0
@@ -1782,16 +1782,16 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 16
   m_LastFolders:
-  - Assets
+  - Assets/Texture/level2/flower
   m_LastFoldersGridSize: 16
   m_LastProjectPath: D:\Unity Projects\583-Prototype\583 Prototype
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 38}
-    m_SelectedIDs: 04b50000
-    m_LastClickedID: 46340
-    m_ExpandedIDs: 0000000004b5000074b5000000ca9a3b
+    scrollPos: {x: 0, y: 90}
+    m_SelectedIDs: dab60000
+    m_LastClickedID: 46810
+    m_ExpandedIDs: 0000000098b400007eb60000aeb6000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1820,7 +1820,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 7e020000
     m_LastClickedID: 638
-    m_ExpandedIDs: 0000000004b5000000ca9a3b
+    m_ExpandedIDs: 0000000098b40000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1849,18 +1849,18 @@ MonoBehaviour:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
     m_HadKeyboardFocusLastEvent: 1
-    m_ExpandedInstanceIDs: c6230000c6a900005eb60000b8b6000026b70000f4b60000d81d010000000000b4b50000beb500002ab30000b4c20000
+    m_ExpandedInstanceIDs: c6230000c6a900005eb60000b8b6000026b70000f4b60000d81d010000000000b4b50000beb500002ab30000b4c20000ccc00000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: CollisionLogger2D
-      m_OriginalName: CollisionLogger2D
+      m_Name: flower
+      m_OriginalName: flower
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 84320
+      m_UserData: -22740
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
       m_OriginalEventType: 0
@@ -1874,7 +1874,7 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
     m_NewAssetIndexInList: -1
-    m_ScrollPosition: {x: 0, y: 1}
+    m_ScrollPosition: {x: 0, y: 0}
     m_GridSize: 16
   m_SkipHiddenPackages: 0
   m_DirectoriesAreaWidth: 199
@@ -1937,7 +1937,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1306.6667
     y: 78.66667
-    width: 399.00012
+    width: 399
     height: 894
   m_SerializedDataModeController:
     m_DataMode: 0
