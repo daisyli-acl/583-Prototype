@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: 8c5e17ac3fe770c449708d00b1f0e7b1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1007754958368228881
+    second: back tree-_0
+  - first:
+      213: 4008294154294177377
+    second: back tree-_1
+  - first:
+      213: -819936072070856264
+    second: back tree-_2
+  - first:
+      213: 7887999822256900275
+    second: back tree-_3
+  - first:
+      213: 4992356195062137933
+    second: back tree-_4
+  - first:
+      213: -4730598201895422187
+    second: back tree-_5
+  - first:
+      213: -359271134756438328
+    second: back tree-_6
+  - first:
+      213: 971840969303779421
+    second: back tree-_7
+  - first:
+      213: -272504895806156561
+    second: back tree-_8
+  - first:
+      213: 2664998102392664659
+    second: back tree-_9
+  - first:
+      213: -5428948320872789151
+    second: back tree-_10
+  - first:
+      213: -7945836441507594281
+    second: back tree-_11
+  - first:
+      213: 1298006603152997637
+    second: back tree-_12
+  - first:
+      213: -1373997332782775050
+    second: back tree-_13
+  - first:
+      213: 5527797677306016602
+    second: back tree-_14
+  - first:
+      213: -952443016805821368
+    second: back tree-_15
+  - first:
+      213: 6001133282111951630
+    second: back tree-_16
+  - first:
+      213: 3696706605373535766
+    second: back tree-_17
+  - first:
+      213: 4737042376048035394
+    second: back tree-_18
+  - first:
+      213: -6812652775421750817
+    second: back tree-_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: back tree-_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5
+        width: 139
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1164d2a9bc34cfd00800000000000000
+      internalID: 1007754958368228881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: back tree-_1
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 0
+        width: 157
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16eaaf5eb4250a730800000000000000
+      internalID: 4008294154294177377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: back tree-_2
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 10
+        width: 156
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b100b59c700f94f0800000000000000
+      internalID: -819936072070856264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: back tree-_3
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 8
+        width: 163
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b887f1cb0ec77d60800000000000000
+      internalID: 7887999822256900275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: back tree-_4
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 15
+        width: 140
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4446ee3289684540800000000000000
+      internalID: 4992356195062137933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: back tree-_5
+      rect:
+        serializedVersion: 2
+        x: 1448
+        y: 9
+        width: 157
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 517fbe8cff9895eb0800000000000000
+      internalID: -4730598201895422187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: back tree-_6
+      rect:
+        serializedVersion: 2
+        x: 1729
+        y: 20
+        width: 156
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ce7ac27ecc930bf0800000000000000
+      internalID: -359271134756438328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: back tree-_7
+      rect:
+        serializedVersion: 2
+        x: 2005
+        y: 18
+        width: 163
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d58e589663cac7d00800000000000000
+      internalID: 971840969303779421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: back tree-_8
+      rect:
+        serializedVersion: 2
+        x: 2343
+        y: 26
+        width: 140
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe05be5bd3ed73cf0800000000000000
+      internalID: -272504895806156561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: back tree-_9
+      rect:
+        serializedVersion: 2
+        x: 2638
+        y: 20
+        width: 157
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 352743487a9fbf420800000000000000
+      internalID: 2664998102392664659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: back tree-_10
+      rect:
+        serializedVersion: 2
+        x: 2919
+        y: 31
+        width: 156
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16b8c66144088a4b0800000000000000
+      internalID: -5428948320872789151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: back tree-_11
+      rect:
+        serializedVersion: 2
+        x: 3556
+        y: 18
+        width: 163
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dff594fad7bab190800000000000000
+      internalID: -7945836441507594281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: back tree-_12
+      rect:
+        serializedVersion: 2
+        x: 3858
+        y: 25
+        width: 140
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50dbb01e022730210800000000000000
+      internalID: 1298006603152997637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: back tree-_13
+      rect:
+        serializedVersion: 2
+        x: 4153
+        y: 19
+        width: 157
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f40621a4b49eece0800000000000000
+      internalID: -1373997332782775050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: back tree-_14
+      rect:
+        serializedVersion: 2
+        x: 4434
+        y: 30
+        width: 156
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a53fd0233bea6bc40800000000000000
+      internalID: 5527797677306016602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: back tree-_15
+      rect:
+        serializedVersion: 2
+        x: 4710
+        y: 28
+        width: 163
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 844dc7a5f1e38c2f0800000000000000
+      internalID: -952443016805821368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: back tree-_16
+      rect:
+        serializedVersion: 2
+        x: 5063
+        y: 15
+        width: 140
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e039e0abcee484350800000000000000
+      internalID: 6001133282111951630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: back tree-_17
+      rect:
+        serializedVersion: 2
+        x: 5358
+        y: 9
+        width: 157
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 616312452175d4330800000000000000
+      internalID: 3696706605373535766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: back tree-_18
+      rect:
+        serializedVersion: 2
+        x: 5639
+        y: 20
+        width: 156
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 246c05e61fa5db140800000000000000
+      internalID: 4737042376048035394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: back tree-_19
+      rect:
+        serializedVersion: 2
+        x: 5919
+        y: 145
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd158ee45689471a0800000000000000
+      internalID: -6812652775421750817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      back tree-_0: 1007754958368228881
+      back tree-_1: 4008294154294177377
+      back tree-_10: -5428948320872789151
+      back tree-_11: -7945836441507594281
+      back tree-_12: 1298006603152997637
+      back tree-_13: -1373997332782775050
+      back tree-_14: 5527797677306016602
+      back tree-_15: -952443016805821368
+      back tree-_16: 6001133282111951630
+      back tree-_17: 3696706605373535766
+      back tree-_18: 4737042376048035394
+      back tree-_19: -6812652775421750817
+      back tree-_2: -819936072070856264
+      back tree-_3: 7887999822256900275
+      back tree-_4: 4992356195062137933
+      back tree-_5: -4730598201895422187
+      back tree-_6: -359271134756438328
+      back tree-_7: 971840969303779421
+      back tree-_8: -272504895806156561
+      back tree-_9: 2664998102392664659
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

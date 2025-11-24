@@ -1,0 +1,7059 @@
+fileFormatVersion: 2
+guid: c0967309df3942143a80a1579a494a14
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3973760272440615745
+    second: front plants_0
+  - first:
+      213: -2548979433911517260
+    second: front plants_1
+  - first:
+      213: 6130484601393479964
+    second: front plants_2
+  - first:
+      213: -7860277207266011278
+    second: front plants_3
+  - first:
+      213: 3962449405528386330
+    second: front plants_4
+  - first:
+      213: -5393875899090497001
+    second: front plants_5
+  - first:
+      213: -3400393078331326102
+    second: front plants_6
+  - first:
+      213: 635207701756131217
+    second: front plants_7
+  - first:
+      213: -4170075529981774405
+    second: front plants_8
+  - first:
+      213: -5882391345106073334
+    second: front plants_9
+  - first:
+      213: 7047959141145958911
+    second: front plants_10
+  - first:
+      213: 7561698052689307310
+    second: front plants_11
+  - first:
+      213: -7522345920785071895
+    second: front plants_12
+  - first:
+      213: -7252953405637874782
+    second: front plants_13
+  - first:
+      213: -4200891305138838980
+    second: front plants_14
+  - first:
+      213: 6361075213189077802
+    second: front plants_15
+  - first:
+      213: -3955761034660090786
+    second: front plants_16
+  - first:
+      213: 6017148046087334722
+    second: front plants_17
+  - first:
+      213: 2975035767524462347
+    second: front plants_18
+  - first:
+      213: 5762151886666254106
+    second: front plants_19
+  - first:
+      213: -8318031581609323911
+    second: front plants_20
+  - first:
+      213: -9071663655565522700
+    second: front plants_21
+  - first:
+      213: -37673295755308339
+    second: front plants_22
+  - first:
+      213: -1258991072762031673
+    second: front plants_23
+  - first:
+      213: 6942787693959758022
+    second: front plants_24
+  - first:
+      213: 8649469913777341361
+    second: front plants_25
+  - first:
+      213: -3574320578530283239
+    second: front plants_26
+  - first:
+      213: -6058160398820111309
+    second: front plants_27
+  - first:
+      213: -3469720608708316761
+    second: front plants_28
+  - first:
+      213: -4299010878406550391
+    second: front plants_29
+  - first:
+      213: -2997937219924719090
+    second: front plants_30
+  - first:
+      213: -5795240261572546911
+    second: front plants_31
+  - first:
+      213: 4947876570434482810
+    second: front plants_32
+  - first:
+      213: -1424736868432580541
+    second: front plants_33
+  - first:
+      213: -5666508698223436045
+    second: front plants_34
+  - first:
+      213: 8535582147413336860
+    second: front plants_35
+  - first:
+      213: 3153639923042453078
+    second: front plants_36
+  - first:
+      213: 4978945849992725307
+    second: front plants_37
+  - first:
+      213: 1227950321295652894
+    second: front plants_38
+  - first:
+      213: 5103802374350610662
+    second: front plants_39
+  - first:
+      213: -5531673386406733021
+    second: front plants_40
+  - first:
+      213: -7250418366792108326
+    second: front plants_41
+  - first:
+      213: 7297007758458242248
+    second: front plants_42
+  - first:
+      213: -4884736938804767546
+    second: front plants_43
+  - first:
+      213: 8670673263455552184
+    second: front plants_44
+  - first:
+      213: -1598318957698045302
+    second: front plants_45
+  - first:
+      213: -9127917873900643329
+    second: front plants_46
+  - first:
+      213: -5290418115331464748
+    second: front plants_47
+  - first:
+      213: -1220763814167470492
+    second: front plants_48
+  - first:
+      213: -8465643927019601871
+    second: front plants_49
+  - first:
+      213: 9065310679654811907
+    second: front plants_50
+  - first:
+      213: 7661175726948807675
+    second: front plants_51
+  - first:
+      213: -4298008846627677533
+    second: front plants_52
+  - first:
+      213: 1896705189906583217
+    second: front plants_53
+  - first:
+      213: 226251756377144703
+    second: front plants_54
+  - first:
+      213: -2848140521490562102
+    second: front plants_55
+  - first:
+      213: 659839961766566713
+    second: front plants_56
+  - first:
+      213: -5623630340077099292
+    second: front plants_57
+  - first:
+      213: 2275802021794171231
+    second: front plants_58
+  - first:
+      213: -2960771788198064583
+    second: front plants_59
+  - first:
+      213: -5842061395127692784
+    second: front plants_60
+  - first:
+      213: 4770877280475165001
+    second: front plants_61
+  - first:
+      213: -1467487526389557077
+    second: front plants_62
+  - first:
+      213: 4631063087630435689
+    second: front plants_63
+  - first:
+      213: -5195179414974511648
+    second: front plants_64
+  - first:
+      213: 6822326595662200614
+    second: front plants_65
+  - first:
+      213: 9126823185136439574
+    second: front plants_66
+  - first:
+      213: 9203408906932181057
+    second: front plants_67
+  - first:
+      213: 1503230607926841769
+    second: front plants_68
+  - first:
+      213: 7455937355839799050
+    second: front plants_69
+  - first:
+      213: -8664568134685906927
+    second: front plants_70
+  - first:
+      213: 6001661373453822741
+    second: front plants_71
+  - first:
+      213: 2073132547197645429
+    second: front plants_72
+  - first:
+      213: 3689570702046838687
+    second: front plants_73
+  - first:
+      213: 5124598422062814721
+    second: front plants_74
+  - first:
+      213: -7271424964279295017
+    second: front plants_75
+  - first:
+      213: -772751247186292231
+    second: front plants_76
+  - first:
+      213: -2673354732966599094
+    second: front plants_77
+  - first:
+      213: -8635945132777386968
+    second: front plants_78
+  - first:
+      213: 3891360080872742824
+    second: front plants_79
+  - first:
+      213: -4864169572018263799
+    second: front plants_80
+  - first:
+      213: 3041435593004751325
+    second: front plants_81
+  - first:
+      213: 6718082743483780919
+    second: front plants_82
+  - first:
+      213: -4825330086225930551
+    second: front plants_83
+  - first:
+      213: -3663872957031087935
+    second: front plants_84
+  - first:
+      213: 9221236128651436318
+    second: front plants_85
+  - first:
+      213: -6255627448748886565
+    second: front plants_86
+  - first:
+      213: 531730577185813445
+    second: front plants_87
+  - first:
+      213: 4704682880350261686
+    second: front plants_88
+  - first:
+      213: 3098747920022137103
+    second: front plants_89
+  - first:
+      213: -4741417724902422233
+    second: front plants_90
+  - first:
+      213: 420528508176290486
+    second: front plants_91
+  - first:
+      213: 13937510756503216
+    second: front plants_92
+  - first:
+      213: -7662530209600888803
+    second: front plants_93
+  - first:
+      213: -782833667810253996
+    second: front plants_94
+  - first:
+      213: 7334241859990734922
+    second: front plants_95
+  - first:
+      213: 2460277133641523580
+    second: front plants_96
+  - first:
+      213: -4531437979583526712
+    second: front plants_97
+  - first:
+      213: -6997049723803733287
+    second: front plants_98
+  - first:
+      213: -7999536302138818587
+    second: front plants_99
+  - first:
+      213: 10769661475973607
+    second: front plants_100
+  - first:
+      213: -6570286960269340221
+    second: front plants_101
+  - first:
+      213: -1028506823652510337
+    second: front plants_102
+  - first:
+      213: -8960406420165577371
+    second: front plants_103
+  - first:
+      213: 3359070328937409899
+    second: front plants_104
+  - first:
+      213: -2221688781256712656
+    second: front plants_105
+  - first:
+      213: -8850872936164158089
+    second: front plants_106
+  - first:
+      213: 3616581185255624323
+    second: front plants_107
+  - first:
+      213: -2988734199163824428
+    second: front plants_108
+  - first:
+      213: 4961789049715595797
+    second: front plants_109
+  - first:
+      213: 6858648534236979271
+    second: front plants_110
+  - first:
+      213: -1542417237740768090
+    second: front plants_111
+  - first:
+      213: 5362251367809615224
+    second: front plants_112
+  - first:
+      213: -8776317266298156272
+    second: front plants_113
+  - first:
+      213: 5925550638537571939
+    second: front plants_114
+  - first:
+      213: -4873484283207892543
+    second: front plants_115
+  - first:
+      213: 844747908727206845
+    second: front plants_116
+  - first:
+      213: 5678219304051185701
+    second: front plants_117
+  - first:
+      213: 8525905539157370372
+    second: front plants_118
+  - first:
+      213: 5845609488957432346
+    second: front plants_119
+  - first:
+      213: 8231288483749180205
+    second: front plants_120
+  - first:
+      213: 8981470509943792055
+    second: front plants_121
+  - first:
+      213: 7100665535245427535
+    second: front plants_122
+  - first:
+      213: 8405017164710286420
+    second: front plants_123
+  - first:
+      213: -48419067793946528
+    second: front plants_124
+  - first:
+      213: -6439051672942354705
+    second: front plants_125
+  - first:
+      213: 1723690464084812088
+    second: front plants_126
+  - first:
+      213: -7518432929217048307
+    second: front plants_127
+  - first:
+      213: -2036055298870098346
+    second: front plants_128
+  - first:
+      213: 1142585385314830805
+    second: front plants_129
+  - first:
+      213: -1533442370161914660
+    second: front plants_130
+  - first:
+      213: -8175650203511699437
+    second: front plants_131
+  - first:
+      213: 5142893394051001597
+    second: front plants_132
+  - first:
+      213: 8530870997476152232
+    second: front plants_133
+  - first:
+      213: 8433346488557762069
+    second: front plants_134
+  - first:
+      213: -6167968891687905225
+    second: front plants_135
+  - first:
+      213: 7816652680839909163
+    second: front plants_136
+  - first:
+      213: -8393500574251815631
+    second: front plants_137
+  - first:
+      213: 4792010519479430425
+    second: front plants_138
+  - first:
+      213: 7093396203608212628
+    second: front plants_139
+  - first:
+      213: 4299166717519935983
+    second: front plants_140
+  - first:
+      213: 5137240959243628241
+    second: front plants_141
+  - first:
+      213: 1332981252048079299
+    second: front plants_142
+  - first:
+      213: 2514326685751402999
+    second: front plants_143
+  - first:
+      213: -124592226857716197
+    second: front plants_144
+  - first:
+      213: 2104817458467583149
+    second: front plants_145
+  - first:
+      213: 518102647760631598
+    second: front plants_146
+  - first:
+      213: 7548634564077963900
+    second: front plants_147
+  - first:
+      213: 8155430576900358020
+    second: front plants_148
+  - first:
+      213: -1045187133111508236
+    second: front plants_149
+  - first:
+      213: -1527260992369717426
+    second: front plants_150
+  - first:
+      213: -1947385885901648281
+    second: front plants_151
+  - first:
+      213: -8487023294813329278
+    second: front plants_152
+  - first:
+      213: -1305705051261638511
+    second: front plants_153
+  - first:
+      213: 8660963478953243910
+    second: front plants_154
+  - first:
+      213: 7465679459720338654
+    second: front plants_155
+  - first:
+      213: -8908544609485556841
+    second: front plants_156
+  - first:
+      213: -2858080347863681684
+    second: front plants_157
+  - first:
+      213: 7347488469440316549
+    second: front plants_158
+  - first:
+      213: -203195233706314997
+    second: front plants_159
+  - first:
+      213: -1997871103814068814
+    second: front plants_160
+  - first:
+      213: -2547169237293812515
+    second: front plants_161
+  - first:
+      213: 4024059085191601221
+    second: front plants_162
+  - first:
+      213: -5484339209054244281
+    second: front plants_163
+  - first:
+      213: -6845633176297331661
+    second: front plants_164
+  - first:
+      213: 1083044518120868398
+    second: front plants_165
+  - first:
+      213: -4677437616264315021
+    second: front plants_166
+  - first:
+      213: -5790331307341836554
+    second: front plants_167
+  - first:
+      213: 2001721505756379636
+    second: front plants_168
+  - first:
+      213: 8744120523061971546
+    second: front plants_169
+  - first:
+      213: -6651420132205132964
+    second: front plants_170
+  - first:
+      213: -7618539297916301270
+    second: front plants_171
+  - first:
+      213: -3639995454419141687
+    second: front plants_172
+  - first:
+      213: 6331120865200923955
+    second: front plants_173
+  - first:
+      213: 1493142890853206997
+    second: front plants_174
+  - first:
+      213: 1147900401657489637
+    second: front plants_175
+  - first:
+      213: -478979892263999896
+    second: front plants_176
+  - first:
+      213: 4810656635039708950
+    second: front plants_177
+  - first:
+      213: 4293053033843865911
+    second: front plants_178
+  - first:
+      213: 1584162970091656358
+    second: front plants_179
+  - first:
+      213: -2963274599303305792
+    second: front plants_180
+  - first:
+      213: 8539567259814736826
+    second: front plants_181
+  - first:
+      213: -8101397558059161979
+    second: front plants_182
+  - first:
+      213: 4792902455609245333
+    second: front plants_183
+  - first:
+      213: -3812221777237532309
+    second: front plants_184
+  - first:
+      213: -1570874118464502232
+    second: front plants_185
+  - first:
+      213: 6512766734026194853
+    second: front plants_186
+  - first:
+      213: 8242095566269001827
+    second: front plants_187
+  - first:
+      213: -8549496025694054605
+    second: front plants_188
+  - first:
+      213: -871442351999643224
+    second: front plants_189
+  - first:
+      213: 524919393676563434
+    second: front plants_190
+  - first:
+      213: 516317829638965235
+    second: front plants_191
+  - first:
+      213: 5978230381601700230
+    second: front plants_192
+  - first:
+      213: -6535322511286625954
+    second: front plants_193
+  - first:
+      213: -5205759207338279642
+    second: front plants_194
+  - first:
+      213: -5784500867883161466
+    second: front plants_195
+  - first:
+      213: 6827728740874317455
+    second: front plants_196
+  - first:
+      213: -2317464615055649389
+    second: front plants_197
+  - first:
+      213: -3611566788924744916
+    second: front plants_198
+  - first:
+      213: 389924855179713961
+    second: front plants_199
+  - first:
+      213: -7880582320507206152
+    second: front plants_200
+  - first:
+      213: -760609646783728917
+    second: front plants_201
+  - first:
+      213: -4279601217312269663
+    second: front plants_202
+  - first:
+      213: 7985139635312415444
+    second: front plants_203
+  - first:
+      213: 1782166722823444280
+    second: front plants_204
+  - first:
+      213: 6295682375894497502
+    second: front plants_205
+  - first:
+      213: -6323450593536797907
+    second: front plants_206
+  - first:
+      213: -223874921268076618
+    second: front plants_207
+  - first:
+      213: 6918923808019844832
+    second: front plants_208
+  - first:
+      213: -126950614791603168
+    second: front plants_209
+  - first:
+      213: 7413053145083064149
+    second: front plants_210
+  - first:
+      213: -3622634784941148575
+    second: front plants_211
+  - first:
+      213: -2030712339918183286
+    second: front plants_212
+  - first:
+      213: 2759296788759181549
+    second: front plants_213
+  - first:
+      213: 8041322244484069758
+    second: front plants_214
+  - first:
+      213: -5075221422605602289
+    second: front plants_215
+  - first:
+      213: 1908226534824703198
+    second: front plants_216
+  - first:
+      213: -7024727066814924441
+    second: front plants_217
+  - first:
+      213: -6472618358933535377
+    second: front plants_218
+  - first:
+      213: 3486706729295634777
+    second: front plants_219
+  - first:
+      213: 6882303623604028884
+    second: front plants_220
+  - first:
+      213: -8053699116958509572
+    second: front plants_221
+  - first:
+      213: -3450483357250827692
+    second: front plants_222
+  - first:
+      213: 6551440469281023241
+    second: front plants_223
+  - first:
+      213: 1373758904380270529
+    second: front plants_224
+  - first:
+      213: 4406374347312357107
+    second: front plants_225
+  - first:
+      213: -7644556210345527564
+    second: front plants_226
+  - first:
+      213: -8516146605161622978
+    second: front plants_227
+  - first:
+      213: -2774365040322731694
+    second: front plants_228
+  - first:
+      213: 1773633957582686953
+    second: front plants_229
+  - first:
+      213: 974953883994059947
+    second: front plants_230
+  - first:
+      213: -69630691112858832
+    second: front plants_231
+  - first:
+      213: -7503581732404966523
+    second: front plants_232
+  - first:
+      213: 6038956711528715484
+    second: front plants_233
+  - first:
+      213: 1108081523749841641
+    second: front plants_234
+  - first:
+      213: -7388673861297870827
+    second: front plants_235
+  - first:
+      213: -6802188770045261752
+    second: front plants_236
+  - first:
+      213: -234329272160804166
+    second: front plants_237
+  - first:
+      213: 2595742628389610017
+    second: front plants_238
+  - first:
+      213: 2455181832363175309
+    second: front plants_239
+  - first:
+      213: 6684122438210577938
+    second: front plants_240
+  - first:
+      213: 102022553961684678
+    second: front plants_241
+  - first:
+      213: -4393995898541939070
+    second: front plants_242
+  - first:
+      213: -1398168276836810560
+    second: front plants_243
+  - first:
+      213: 6963102568238659039
+    second: front plants_244
+  - first:
+      213: -8985362849269175451
+    second: front plants_245
+  - first:
+      213: -7649014122537869790
+    second: front plants_246
+  - first:
+      213: 5054450706625007095
+    second: front plants_247
+  - first:
+      213: -343858465052040041
+    second: front plants_248
+  - first:
+      213: -1966961457412129406
+    second: front plants_249
+  - first:
+      213: 6332934919278540207
+    second: front plants_250
+  - first:
+      213: -3436699799240069
+    second: front plants_251
+  - first:
+      213: 1608603930285585232
+    second: front plants_252
+  - first:
+      213: 4604569349689030683
+    second: front plants_253
+  - first:
+      213: 4118736724465122938
+    second: front plants_254
+  - first:
+      213: -1830127738062802674
+    second: front plants_255
+  - first:
+      213: -9111877492059835517
+    second: front plants_256
+  - first:
+      213: -219157015688494296
+    second: front plants_257
+  - first:
+      213: 5239938821593314867
+    second: front plants_258
+  - first:
+      213: -2399277471203199660
+    second: front plants_259
+  - first:
+      213: 1954008359005622733
+    second: front plants_260
+  - first:
+      213: -4379975026792037122
+    second: front plants_261
+  - first:
+      213: -4319646366271841266
+    second: front plants_262
+  - first:
+      213: -371844051728108283
+    second: front plants_263
+  - first:
+      213: -5788345588981633296
+    second: front plants_264
+  - first:
+      213: 4076282847747370730
+    second: front plants_265
+  - first:
+      213: -7934208275379940334
+    second: front plants_266
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: front plants_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 452
+        width: 339
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 143e165f9e1a52730800000000000000
+      internalID: 3973760272440615745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_1
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 453
+        width: 237
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bf7dedb5b430acd0800000000000000
+      internalID: -2548979433911517260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_2
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 539
+        width: 316
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c118f07a34bd31550800000000000000
+      internalID: 6130484601393479964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_3
+      rect:
+        serializedVersion: 2
+        x: 1446
+        y: 478
+        width: 242
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2775fc8868faae290800000000000000
+      internalID: -7860277207266011278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_4
+      rect:
+        serializedVersion: 2
+        x: 1767
+        y: 467
+        width: 311
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1b2af88db27df630800000000000000
+      internalID: 3962449405528386330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_5
+      rect:
+        serializedVersion: 2
+        x: 2157
+        y: 450
+        width: 288
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7129b20a27a1525b0800000000000000
+      internalID: -5393875899090497001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_6
+      rect:
+        serializedVersion: 2
+        x: 2564
+        y: 437
+        width: 214
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a614d55e2806fc0d0800000000000000
+      internalID: -3400393078331326102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_7
+      rect:
+        serializedVersion: 2
+        x: 2983
+        y: 473
+        width: 241
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19734cd0a06b0d800800000000000000
+      internalID: 635207701756131217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_8
+      rect:
+        serializedVersion: 2
+        x: 3320
+        y: 493
+        width: 340
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb533e4466ae026c0800000000000000
+      internalID: -4170075529981774405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_9
+      rect:
+        serializedVersion: 2
+        x: 3783
+        y: 511
+        width: 203
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a09ce15ec3c8d5ea0800000000000000
+      internalID: -5882391345106073334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_10
+      rect:
+        serializedVersion: 2
+        x: 4058
+        y: 517
+        width: 201
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff9d8774f716fc160800000000000000
+      internalID: 7047959141145958911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_11
+      rect:
+        serializedVersion: 2
+        x: 4304
+        y: 502
+        width: 285
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea62f49b05c80f860800000000000000
+      internalID: 7561698052689307310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_12
+      rect:
+        serializedVersion: 2
+        x: 4662
+        y: 487
+        width: 313
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e04ff97d324b9790800000000000000
+      internalID: -7522345920785071895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_13
+      rect:
+        serializedVersion: 2
+        x: 5088
+        y: 483
+        width: 215
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2abae7c2e45585b90800000000000000
+      internalID: -7252953405637874782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_14
+      rect:
+        serializedVersion: 2
+        x: 5399
+        y: 480
+        width: 367
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c322c218d9f63b5c0800000000000000
+      internalID: -4200891305138838980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_15
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 392
+        width: 225
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2b5da73434174850800000000000000
+      internalID: 6361075213189077802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_16
+      rect:
+        serializedVersion: 2
+        x: 1658
+        y: 429
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5ce0c82c405a19c0800000000000000
+      internalID: -3955761034660090786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_17
+      rect:
+        serializedVersion: 2
+        x: 1667
+        y: 431
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24ba8f78444318350800000000000000
+      internalID: 6017148046087334722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_18
+      rect:
+        serializedVersion: 2
+        x: 1677
+        y: 433
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0f8065a443794920800000000000000
+      internalID: 2975035767524462347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_19
+      rect:
+        serializedVersion: 2
+        x: 1684
+        y: 434
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a17c69a9c9647ff40800000000000000
+      internalID: 5762151886666254106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_20
+      rect:
+        serializedVersion: 2
+        x: 1693
+        y: 431
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97212bbe85a609c80800000000000000
+      internalID: -8318031581609323911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_21
+      rect:
+        serializedVersion: 2
+        x: 1711
+        y: 434
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f8023018f9fa1280800000000000000
+      internalID: -9071663655565522700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_22
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 431
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc29cfc46582a7ff0800000000000000
+      internalID: -37673295755308339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_23
+      rect:
+        serializedVersion: 2
+        x: 2496
+        y: 395
+        width: 109
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c191ac2a4a278ee0800000000000000
+      internalID: -1258991072762031673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_24
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 390
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c0cc698f9cb95060800000000000000
+      internalID: 6942787693959758022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_25
+      rect:
+        serializedVersion: 2
+        x: 1354
+        y: 389
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b3802a4f07190870800000000000000
+      internalID: 8649469913777341361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_26
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 392
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91175531f56756ec0800000000000000
+      internalID: -3574320578530283239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_27
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 390
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33c0dfbf6371deba0800000000000000
+      internalID: -6058160398820111309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_28
+      rect:
+        serializedVersion: 2
+        x: 1379
+        y: 391
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a1b6106d7319dfc0800000000000000
+      internalID: -3469720608708316761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_29
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 392
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98c990b1268d654c0800000000000000
+      internalID: -4299010878406550391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_30
+      rect:
+        serializedVersion: 2
+        x: 4159
+        y: 396
+        width: 26
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0a07737bff2566d0800000000000000
+      internalID: -2997937219924719090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_31
+      rect:
+        serializedVersion: 2
+        x: 4181
+        y: 393
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ae2de4cfab239fa0800000000000000
+      internalID: -5795240261572546911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_32
+      rect:
+        serializedVersion: 2
+        x: 4203
+        y: 396
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a72b93d96836aa440800000000000000
+      internalID: 4947876570434482810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_33
+      rect:
+        serializedVersion: 2
+        x: 4211
+        y: 400
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3407ca2ed515a3ce0800000000000000
+      internalID: -1424736868432580541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_34
+      rect:
+        serializedVersion: 2
+        x: 4219
+        y: 396
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fe1bb58c548c51b0800000000000000
+      internalID: -5666508698223436045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_35
+      rect:
+        serializedVersion: 2
+        x: 4227
+        y: 395
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c13ecb75dba747670800000000000000
+      internalID: 8535582147413336860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_36
+      rect:
+        serializedVersion: 2
+        x: 4239
+        y: 396
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6568f622dcaf3cb20800000000000000
+      internalID: 3153639923042453078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_37
+      rect:
+        serializedVersion: 2
+        x: 4250
+        y: 392
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b33c8b8fed4c81540800000000000000
+      internalID: 4978945849992725307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_38
+      rect:
+        serializedVersion: 2
+        x: 5604
+        y: 385
+        width: 33
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1877aeaf4e8a0110800000000000000
+      internalID: 1227950321295652894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_39
+      rect:
+        serializedVersion: 2
+        x: 5640
+        y: 387
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e0a6f6e73954d640800000000000000
+      internalID: 5103802374350610662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_40
+      rect:
+        serializedVersion: 2
+        x: 5646
+        y: 381
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32b9eb5fc5c8b33b0800000000000000
+      internalID: -5531673386406733021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_41
+      rect:
+        serializedVersion: 2
+        x: 5667
+        y: 386
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad67366e8e6516b90800000000000000
+      internalID: -7250418366792108326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_42
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 391
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c44c2625ed244560800000000000000
+      internalID: 7297007758458242248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_43
+      rect:
+        serializedVersion: 2
+        x: 2824
+        y: 386
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c4105572ade53cb0800000000000000
+      internalID: -4884736938804767546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_44
+      rect:
+        serializedVersion: 2
+        x: 2847
+        y: 387
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b2ceb7d46b645870800000000000000
+      internalID: 8670673263455552184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_45
+      rect:
+        serializedVersion: 2
+        x: 2852
+        y: 388
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8aa2a05061a1d9e0800000000000000
+      internalID: -1598318957698045302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_46
+      rect:
+        serializedVersion: 2
+        x: 2859
+        y: 387
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffb96333e0f135180800000000000000
+      internalID: -9127917873900643329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_47
+      rect:
+        serializedVersion: 2
+        x: 2865
+        y: 387
+        width: 21
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d1606201c8a496b0800000000000000
+      internalID: -5290418115331464748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_48
+      rect:
+        serializedVersion: 2
+        x: 2878
+        y: 386
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46e95e567c9fe0fe0800000000000000
+      internalID: -1220763814167470492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_49
+      rect:
+        serializedVersion: 2
+        x: 5060
+        y: 375
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 130cd0783bdf38a80800000000000000
+      internalID: -8465643927019601871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_50
+      rect:
+        serializedVersion: 2
+        x: 5568
+        y: 382
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 309416778047ecd70800000000000000
+      internalID: 9065310679654811907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_51
+      rect:
+        serializedVersion: 2
+        x: 5579
+        y: 387
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf3f0a6abb6f15a60800000000000000
+      internalID: 7661175726948807675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_52
+      rect:
+        serializedVersion: 2
+        x: 5595
+        y: 385
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aa554fc9b76a54c0800000000000000
+      internalID: -4298008846627677533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_53
+      rect:
+        serializedVersion: 2
+        x: 5680
+        y: 378
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1be85003253725a10800000000000000
+      internalID: 1896705189906583217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_54
+      rect:
+        serializedVersion: 2
+        x: 2050
+        y: 367
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7dfaa016cec32300800000000000000
+      internalID: 226251756377144703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_55
+      rect:
+        serializedVersion: 2
+        x: 2069
+        y: 370
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac3c82a294f5978d0800000000000000
+      internalID: -2848140521490562102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_56
+      rect:
+        serializedVersion: 2
+        x: 2079
+        y: 372
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93b14b103f8382900800000000000000
+      internalID: 659839961766566713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_57
+      rect:
+        serializedVersion: 2
+        x: 2085
+        y: 370
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e6689f300ad4f1b0800000000000000
+      internalID: -5623630340077099292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_58
+      rect:
+        serializedVersion: 2
+        x: 2097
+        y: 371
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f59482091e5459f10800000000000000
+      internalID: 2275802021794171231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_59
+      rect:
+        serializedVersion: 2
+        x: 2104
+        y: 371
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93ec477deb939e6d0800000000000000
+      internalID: -2960771788198064583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_60
+      rect:
+        serializedVersion: 2
+        x: 2112
+        y: 371
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 012146b1d14dceea0800000000000000
+      internalID: -5842061395127692784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_61
+      rect:
+        serializedVersion: 2
+        x: 2114
+        y: 378
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94134b10c9f853240800000000000000
+      internalID: 4770877280475165001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_62
+      rect:
+        serializedVersion: 2
+        x: 2120
+        y: 369
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba8db3daedf62abe0800000000000000
+      internalID: -1467487526389557077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_63
+      rect:
+        serializedVersion: 2
+        x: 5012
+        y: 372
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 965c2ae7757d44040800000000000000
+      internalID: 4631063087630435689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_64
+      rect:
+        serializedVersion: 2
+        x: 5026
+        y: 372
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e5c50ae8d307e7b0800000000000000
+      internalID: -5195179414974511648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_65
+      rect:
+        serializedVersion: 2
+        x: 5043
+        y: 377
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62f352c74e5cdae50800000000000000
+      internalID: 6822326595662200614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_66
+      rect:
+        serializedVersion: 2
+        x: 5072
+        y: 371
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6115bd5b45df8ae70800000000000000
+      internalID: 9126823185136439574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_67
+      rect:
+        serializedVersion: 2
+        x: 2045
+        y: 369
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 148db5c93a319bf70800000000000000
+      internalID: 9203408906932181057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_68
+      rect:
+        serializedVersion: 2
+        x: 3512
+        y: 356
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a159f0064c8cd410800000000000000
+      internalID: 1503230607926841769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_69
+      rect:
+        serializedVersion: 2
+        x: 3528
+        y: 365
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0f756a958fc87760800000000000000
+      internalID: 7455937355839799050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_70
+      rect:
+        serializedVersion: 2
+        x: 3538
+        y: 362
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 118a0e7303541c780800000000000000
+      internalID: -8664568134685906927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_71
+      rect:
+        serializedVersion: 2
+        x: 3545
+        y: 360
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51be5e2983f2a4350800000000000000
+      internalID: 6001661373453822741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_72
+      rect:
+        serializedVersion: 2
+        x: 3559
+        y: 360
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5723408511f35cc10800000000000000
+      internalID: 2073132547197645429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_73
+      rect:
+        serializedVersion: 2
+        x: 3493
+        y: 353
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9fb03d510df33330800000000000000
+      internalID: 3689570702046838687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_74
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 358
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 106d4931d1b3e1740800000000000000
+      internalID: 5124598422062814721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_75
+      rect:
+        serializedVersion: 2
+        x: 3568
+        y: 359
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d3a9394585b61b90800000000000000
+      internalID: -7271424964279295017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_76
+      rect:
+        serializedVersion: 2
+        x: 3576
+        y: 352
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f198bbb5d2a645f0800000000000000
+      internalID: -772751247186292231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_77
+      rect:
+        serializedVersion: 2
+        x: 3608
+        y: 358
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a46aaeec80656ead0800000000000000
+      internalID: -2673354732966599094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_78
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 330
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82c4a0d28a5f62880800000000000000
+      internalID: -8635945132777386968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_79
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 326
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8af1e815063e00630800000000000000
+      internalID: 3891360080872742824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_80
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 328
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9096694bb8ffe7cb0800000000000000
+      internalID: -4864169572018263799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_81
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 326
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd91740ce89553a20800000000000000
+      internalID: 3041435593004751325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_82
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 330
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73f480949ac6b3d50800000000000000
+      internalID: 6718082743483780919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_83
+      rect:
+        serializedVersion: 2
+        x: 3128
+        y: 336
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c69f7e2adbf80db0800000000000000
+      internalID: -4825330086225930551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_84
+      rect:
+        serializedVersion: 2
+        x: 3139
+        y: 336
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c0800625fe472dc0800000000000000
+      internalID: -3663872957031087935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_85
+      rect:
+        serializedVersion: 2
+        x: 3142
+        y: 337
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e11644e176968ff70800000000000000
+      internalID: 9221236128651436318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_86
+      rect:
+        serializedVersion: 2
+        x: 3163
+        y: 341
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd5b326aafb8f29a0800000000000000
+      internalID: -6255627448748886565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_87
+      rect:
+        serializedVersion: 2
+        x: 3171
+        y: 339
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c3bf598426116700800000000000000
+      internalID: 531730577185813445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_88
+      rect:
+        serializedVersion: 2
+        x: 3176
+        y: 336
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b1932837246a4140800000000000000
+      internalID: 4704682880350261686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_89
+      rect:
+        serializedVersion: 2
+        x: 3184
+        y: 334
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f09666db0d6f00b20800000000000000
+      internalID: 3098747920022137103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_90
+      rect:
+        serializedVersion: 2
+        x: 3192
+        y: 335
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 729437743b9133eb0800000000000000
+      internalID: -4741417724902422233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_91
+      rect:
+        serializedVersion: 2
+        x: 3203
+        y: 333
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b2d5cb337406d500800000000000000
+      internalID: 420528508176290486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_92
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 308
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bec1b99714813000800000000000000
+      internalID: 13937510756503216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_93
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 307
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d102a084f5939a590800000000000000
+      internalID: -7662530209600888803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_94
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 311
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45324ff3de0d225f0800000000000000
+      internalID: -782833667810253996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_95
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 305
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a484c89fc1678c560800000000000000
+      internalID: 7334241859990734922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_96
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 312
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7128b79409a42220800000000000000
+      internalID: 2460277133641523580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_97
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 312
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c8c5398a291d11c0800000000000000
+      internalID: -4531437979583526712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_98
+      rect:
+        serializedVersion: 2
+        x: 2365
+        y: 287
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d2fee0295c75ee90800000000000000
+      internalID: -6997049723803733287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_99
+      rect:
+        serializedVersion: 2
+        x: 2374
+        y: 290
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ef7c27dd10fbf090800000000000000
+      internalID: -7999536302138818587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_100
+      rect:
+        serializedVersion: 2
+        x: 2382
+        y: 288
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e960a633f2462000800000000000000
+      internalID: 10769661475973607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_101
+      rect:
+        serializedVersion: 2
+        x: 2391
+        y: 290
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c1d3cc02d6a1d4a0800000000000000
+      internalID: -6570286960269340221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_102
+      rect:
+        serializedVersion: 2
+        x: 2397
+        y: 290
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f75702f3e720ab1f0800000000000000
+      internalID: -1028506823652510337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_103
+      rect:
+        serializedVersion: 2
+        x: 2408
+        y: 290
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 565b6eac5dd36a380800000000000000
+      internalID: -8960406420165577371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_104
+      rect:
+        serializedVersion: 2
+        x: 2414
+        y: 287
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6d6ed3caa0dd9e20800000000000000
+      internalID: 3359070328937409899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_105
+      rect:
+        serializedVersion: 2
+        x: 2425
+        y: 289
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03e19bf03d9fa21e0800000000000000
+      internalID: -2221688781256712656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_106
+      rect:
+        serializedVersion: 2
+        x: 2436
+        y: 291
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77511df55f16b2580800000000000000
+      internalID: -8850872936164158089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_107
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 252
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38ec5803d6da03230800000000000000
+      internalID: 3616581185255624323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_108
+      rect:
+        serializedVersion: 2
+        x: 1712
+        y: 264
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d657c2b412e586d0800000000000000
+      internalID: -2988734199163824428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_109
+      rect:
+        serializedVersion: 2
+        x: 1726
+        y: 265
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51a98be1ad0dbd440800000000000000
+      internalID: 4961789049715595797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_110
+      rect:
+        serializedVersion: 2
+        x: 1738
+        y: 266
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 740e272d080de2f50800000000000000
+      internalID: 6858648534236979271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_111
+      rect:
+        serializedVersion: 2
+        x: 1749
+        y: 263
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a4b501c1bb389ae0800000000000000
+      internalID: -1542417237740768090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_112
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 270
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87505a6653b8a6a40800000000000000
+      internalID: 5362251367809615224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_113
+      rect:
+        serializedVersion: 2
+        x: 1766
+        y: 263
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01bcb2af1f1443680800000000000000
+      internalID: -8776317266298156272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_114
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 263
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36efe9c29e8cb3250800000000000000
+      internalID: 5925550638537571939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_115
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 249
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c1c1f08dd7ed5cb0800000000000000
+      internalID: -4873484283207892543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_116
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 252
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db370705fb529bb00800000000000000
+      internalID: 844747908727206845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_117
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 254
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5289cbe5f561dce40800000000000000
+      internalID: 5678219304051185701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_118
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 250
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 406a20a6ae9125670800000000000000
+      internalID: 8525905539157370372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_119
+      rect:
+        serializedVersion: 2
+        x: 1691
+        y: 261
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a12e5fcdbd6cf1150800000000000000
+      internalID: 5845609488957432346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_120
+      rect:
+        serializedVersion: 2
+        x: 1783
+        y: 255
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2332a5c3496b3270800000000000000
+      internalID: 8231288483749180205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_121
+      rect:
+        serializedVersion: 2
+        x: 3895
+        y: 252
+        width: 32
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b1a8d9c7d794ac70800000000000000
+      internalID: 8981470509943792055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_122
+      rect:
+        serializedVersion: 2
+        x: 3928
+        y: 250
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f43a921fea1aa8260800000000000000
+      internalID: 7100665535245427535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_123
+      rect:
+        serializedVersion: 2
+        x: 3937
+        y: 251
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4541e91649e94a470800000000000000
+      internalID: 8405017164710286420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_124
+      rect:
+        serializedVersion: 2
+        x: 3946
+        y: 253
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06849c74d1bf35ff0800000000000000
+      internalID: -48419067793946528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_125
+      rect:
+        serializedVersion: 2
+        x: 3959
+        y: 253
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feed2e77e94e3a6a0800000000000000
+      internalID: -6439051672942354705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_126
+      rect:
+        serializedVersion: 2
+        x: 4810
+        y: 240
+        width: 42
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 831e0863857cbe710800000000000000
+      internalID: 1723690464084812088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_127
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 252
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d011b62d51929a790800000000000000
+      internalID: -7518432929217048307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_128
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 251
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 656cbcf3e7a7eb3e0800000000000000
+      internalID: -2036055298870098346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_129
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 247
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d94e31ba574bdf00800000000000000
+      internalID: 1142585385314830805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_130
+      rect:
+        serializedVersion: 2
+        x: 3968
+        y: 249
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdc47f2f94e18bae0800000000000000
+      internalID: -1533442370161914660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_131
+      rect:
+        serializedVersion: 2
+        x: 3990
+        y: 250
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 318c5d3d4714a8e80800000000000000
+      internalID: -8175650203511699437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_132
+      rect:
+        serializedVersion: 2
+        x: 4779
+        y: 241
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfcec1e2b4a3f5740800000000000000
+      internalID: 5142893394051001597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_133
+      rect:
+        serializedVersion: 2
+        x: 4789
+        y: 243
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a39f3549fdb36670800000000000000
+      internalID: 8530870997476152232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_134
+      rect:
+        serializedVersion: 2
+        x: 4848
+        y: 243
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 516f54613f3490570800000000000000
+      internalID: 8433346488557762069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_135
+      rect:
+        serializedVersion: 2
+        x: 4866
+        y: 242
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7385849e8f8f66aa0800000000000000
+      internalID: -6167968891687905225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_136
+      rect:
+        serializedVersion: 2
+        x: 4884
+        y: 240
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2f4116e2345a7c60800000000000000
+      internalID: 7816652680839909163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_137
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 222
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13deea9c2bb448b80800000000000000
+      internalID: -8393500574251815631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_138
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 224
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91da185ad24a08240800000000000000
+      internalID: 4792010519479430425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_139
+      rect:
+        serializedVersion: 2
+        x: 1465
+        y: 224
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4940c27c34ec07260800000000000000
+      internalID: 7093396203608212628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_140
+      rect:
+        serializedVersion: 2
+        x: 1473
+        y: 227
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe935f30a55b9ab30800000000000000
+      internalID: 4299166717519935983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_141
+      rect:
+        serializedVersion: 2
+        x: 1483
+        y: 225
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dead452f652b4740800000000000000
+      internalID: 5137240959243628241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_142
+      rect:
+        serializedVersion: 2
+        x: 1495
+        y: 226
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c9c494e263bf7210800000000000000
+      internalID: 1332981252048079299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_143
+      rect:
+        serializedVersion: 2
+        x: 2684
+        y: 214
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f16f799ccea4e220800000000000000
+      internalID: 2514326685751402999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_144
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 197
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b16fe50a70c554ef0800000000000000
+      internalID: -124592226857716197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_145
+      rect:
+        serializedVersion: 2
+        x: 2665
+        y: 214
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da43001a350d53d10800000000000000
+      internalID: 2104817458467583149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_146
+      rect:
+        serializedVersion: 2
+        x: 2675
+        y: 215
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2736f4fc9ba03700800000000000000
+      internalID: 518102647760631598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_147
+      rect:
+        serializedVersion: 2
+        x: 2695
+        y: 215
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7a4a13442322c860800000000000000
+      internalID: 7548634564077963900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_148
+      rect:
+        serializedVersion: 2
+        x: 2703
+        y: 215
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48f318e76e8ed2170800000000000000
+      internalID: 8155430576900358020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_149
+      rect:
+        serializedVersion: 2
+        x: 2713
+        y: 214
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f2641f07dfbe71f0800000000000000
+      internalID: -1045187133111508236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_150
+      rect:
+        serializedVersion: 2
+        x: 2721
+        y: 213
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4f0e7e18341ecae0800000000000000
+      internalID: -1527260992369717426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_151
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 199
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76e093ebade79f4e0800000000000000
+      internalID: -1947385885901648281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_152
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 201
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 288af209749083a80800000000000000
+      internalID: -8487023294813329278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_153
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 199
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 198ed1e7c2431ede0800000000000000
+      internalID: -1305705051261638511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_154
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 197
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 605b3a7756ce13870800000000000000
+      internalID: 8660963478953243910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_155
+      rect:
+        serializedVersion: 2
+        x: 5491
+        y: 180
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edc9f8be9eb6b9760800000000000000
+      internalID: 7465679459720338654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_156
+      rect:
+        serializedVersion: 2
+        x: 3238
+        y: 185
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79374ed80ed7e5480800000000000000
+      internalID: -8908544609485556841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_157
+      rect:
+        serializedVersion: 2
+        x: 3250
+        y: 187
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c657f0ef01f0658d0800000000000000
+      internalID: -2858080347863681684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_158
+      rect:
+        serializedVersion: 2
+        x: 3264
+        y: 187
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 584c44495d587f560800000000000000
+      internalID: 7347488469440316549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_159
+      rect:
+        serializedVersion: 2
+        x: 3271
+        y: 187
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b03f1e2f20b1e2df0800000000000000
+      internalID: -203195233706314997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_160
+      rect:
+        serializedVersion: 2
+        x: 3277
+        y: 186
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b51526f0d22644e0800000000000000
+      internalID: -1997871103814068814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_161
+      rect:
+        serializedVersion: 2
+        x: 3285
+        y: 186
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd4bc4cf213a6acd0800000000000000
+      internalID: -2547169237293812515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_162
+      rect:
+        serializedVersion: 2
+        x: 3294
+        y: 186
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54c5708ea6458d730800000000000000
+      internalID: 4024059085191601221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_163
+      rect:
+        serializedVersion: 2
+        x: 3305
+        y: 186
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7423390fb86b3e3b0800000000000000
+      internalID: -5484339209054244281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_164
+      rect:
+        serializedVersion: 2
+        x: 5431
+        y: 181
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3342b2855ec6ff0a0800000000000000
+      internalID: -6845633176297331661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_165
+      rect:
+        serializedVersion: 2
+        x: 5458
+        y: 184
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2a4782404fb70f00800000000000000
+      internalID: 1083044518120868398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_166
+      rect:
+        serializedVersion: 2
+        x: 5475
+        y: 181
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37ff3872547661fb0800000000000000
+      internalID: -4677437616264315021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_167
+      rect:
+        serializedVersion: 2
+        x: 5504
+        y: 182
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fe011eba5c94afa0800000000000000
+      internalID: -5790331307341836554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_168
+      rect:
+        serializedVersion: 2
+        x: 5514
+        y: 180
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f97ed99a1b87cb10800000000000000
+      internalID: 2001721505756379636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_169
+      rect:
+        serializedVersion: 2
+        x: 5536
+        y: 184
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5acf42994b595970800000000000000
+      internalID: 8744120523061971546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_170
+      rect:
+        serializedVersion: 2
+        x: 5558
+        y: 184
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c53080861a861b3a0800000000000000
+      internalID: -6651420132205132964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_171
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 156
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2058509fd2854690800000000000000
+      internalID: -7618539297916301270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_172
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 155
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cb7f437b632c7dc0800000000000000
+      internalID: -3639995454419141687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_173
+      rect:
+        serializedVersion: 2
+        x: 2142
+        y: 160
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3356d5812e8acd750800000000000000
+      internalID: 6331120865200923955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_174
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 162
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5db84385c85b8b410800000000000000
+      internalID: 1493142890853206997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_175
+      rect:
+        serializedVersion: 2
+        x: 2170
+        y: 169
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e8a25e55592eef00800000000000000
+      internalID: 1147900401657489637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_176
+      rect:
+        serializedVersion: 2
+        x: 2171
+        y: 162
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 866ac0363525a59f0800000000000000
+      internalID: -478979892263999896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_177
+      rect:
+        serializedVersion: 2
+        x: 2181
+        y: 161
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 617faebb8b2e2c240800000000000000
+      internalID: 4810656635039708950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_178
+      rect:
+        serializedVersion: 2
+        x: 2189
+        y: 160
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7393d2c1dfcf39b30800000000000000
+      internalID: 4293053033843865911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_179
+      rect:
+        serializedVersion: 2
+        x: 2199
+        y: 160
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a414aaf3d31cf510800000000000000
+      internalID: 1584162970091656358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_180
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 154
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c5a698b37550e6d0800000000000000
+      internalID: -2963274599303305792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_181
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 156
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab330d0ad23a28670800000000000000
+      internalID: 8539567259814736826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_182
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 158
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 586aaaf08dd029f80800000000000000
+      internalID: -8101397558059161979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_183
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 154
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59ebfa5b36fc38240800000000000000
+      internalID: 4792902455609245333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_184
+      rect:
+        serializedVersion: 2
+        x: 2130
+        y: 160
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b61afbadd74481bc0800000000000000
+      internalID: -3812221777237532309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_185
+      rect:
+        serializedVersion: 2
+        x: 2916
+        y: 134
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8268116ef42233ae0800000000000000
+      internalID: -1570874118464502232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_186
+      rect:
+        serializedVersion: 2
+        x: 2923
+        y: 134
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5afbc96a6def16a50800000000000000
+      internalID: 6512766734026194853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_187
+      rect:
+        serializedVersion: 2
+        x: 2941
+        y: 136
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3603940cf3ec16270800000000000000
+      internalID: 8242095566269001827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_188
+      rect:
+        serializedVersion: 2
+        x: 2945
+        y: 135
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33754eb69a61a5980800000000000000
+      internalID: -8549496025694054605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_189
+      rect:
+        serializedVersion: 2
+        x: 2949
+        y: 135
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a194d64cc308e3f0800000000000000
+      internalID: -871442351999643224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_190
+      rect:
+        serializedVersion: 2
+        x: 2956
+        y: 135
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae31ecb4863e84700800000000000000
+      internalID: 524919393676563434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_191
+      rect:
+        serializedVersion: 2
+        x: 2965
+        y: 134
+        width: 22
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f7c4da94545a2700800000000000000
+      internalID: 516317829638965235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_192
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 82
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68931d8abd0f6f250800000000000000
+      internalID: 5978230381601700230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_193
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 86
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5995263dcedd45a0800000000000000
+      internalID: -6535322511286625954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_194
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 92
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62df16c059d61c7b0800000000000000
+      internalID: -5205759207338279642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_195
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 91
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 688a2e6bb1359bfa0800000000000000
+      internalID: -5784500867883161466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_196
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 100
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8ee98e6d17f0ce50800000000000000
+      internalID: 6827728740874317455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_197
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 93
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39512180636b6dfd0800000000000000
+      internalID: -2317464615055649389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_198
+      rect:
+        serializedVersion: 2
+        x: 2963
+        y: 10
+        width: 184
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2bda8fe32321edc0800000000000000
+      internalID: -3611566788924744916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_199
+      rect:
+        serializedVersion: 2
+        x: 4392
+        y: 85
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ad1512079a496500800000000000000
+      internalID: 389924855179713961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_200
+      rect:
+        serializedVersion: 2
+        x: 4400
+        y: 90
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f5c1f2f12c82a290800000000000000
+      internalID: -7880582320507206152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_201
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 81
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be278be5e85c175f0800000000000000
+      internalID: -760609646783728917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_202
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 85
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aad5cdfd5dcb94c0800000000000000
+      internalID: -4279601217312269663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_203
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 81
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d250b4f03ae0de60800000000000000
+      internalID: 7985139635312415444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_204
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 89
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 837d96c21378bb810800000000000000
+      internalID: 1782166722823444280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_205
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 88
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed8f0e1d3c1ce5750800000000000000
+      internalID: 6295682375894497502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_206
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 86
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d23918130379e38a0800000000000000
+      internalID: -6323450593536797907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_207
+      rect:
+        serializedVersion: 2
+        x: 4344
+        y: 78
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bf92bbf1f2a4ecf0800000000000000
+      internalID: -223874921268076618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_208
+      rect:
+        serializedVersion: 2
+        x: 4362
+        y: 85
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ee040d9b84f40060800000000000000
+      internalID: 6918923808019844832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_209
+      rect:
+        serializedVersion: 2
+        x: 4382
+        y: 83
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02c3455a61bfc3ef0800000000000000
+      internalID: -126950614791603168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_210
+      rect:
+        serializedVersion: 2
+        x: 4412
+        y: 84
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55fa4c53f8470e660800000000000000
+      internalID: 7413053145083064149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_211
+      rect:
+        serializedVersion: 2
+        x: 4422
+        y: 82
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 166fb9c4bd0d9bdc0800000000000000
+      internalID: -3622634784941148575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_212
+      rect:
+        serializedVersion: 2
+        x: 4450
+        y: 76
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a84ac22d2e571d3e0800000000000000
+      internalID: -2030712339918183286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_213
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 77
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de8fddb5fcdfa4620800000000000000
+      internalID: 2759296788759181549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_214
+      rect:
+        serializedVersion: 2
+        x: 1606
+        y: 0
+        width: 199
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e797be20af3889f60800000000000000
+      internalID: 8041322244484069758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_215
+      rect:
+        serializedVersion: 2
+        x: 3489
+        y: 66
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f02f32d71013199b0800000000000000
+      internalID: -5075221422605602289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_216
+      rect:
+        serializedVersion: 2
+        x: 3496
+        y: 68
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed473375ce16b7a10800000000000000
+      internalID: 1908226534824703198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_217
+      rect:
+        serializedVersion: 2
+        x: 3505
+        y: 68
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 769bc6a83f7238e90800000000000000
+      internalID: -7024727066814924441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_218
+      rect:
+        serializedVersion: 2
+        x: 3512
+        y: 70
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f65481d55e3ac26a0800000000000000
+      internalID: -6472618358933535377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_219
+      rect:
+        serializedVersion: 2
+        x: 3519
+        y: 67
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95161a30c45436030800000000000000
+      internalID: 3486706729295634777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_220
+      rect:
+        serializedVersion: 2
+        x: 3530
+        y: 70
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d54d418eaad28f50800000000000000
+      internalID: 6882303623604028884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_221
+      rect:
+        serializedVersion: 2
+        x: 4436
+        y: 79
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf59fcdc2538b3090800000000000000
+      internalID: -8053699116958509572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_222
+      rect:
+        serializedVersion: 2
+        x: 5069
+        y: 66
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45acaa30bab6d10d0800000000000000
+      internalID: -3450483357250827692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_223
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 58
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9052d9255646bea50800000000000000
+      internalID: 6551440469281023241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_224
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 56
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c7ad9ee172901310800000000000000
+      internalID: 1373758904380270529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_225
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 56
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fe52f67f16962d30800000000000000
+      internalID: 4406374347312357107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_226
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 57
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f639d811a419e590800000000000000
+      internalID: -7644556210345527564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_227
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 56
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e32513878c190d980800000000000000
+      internalID: -8516146605161622978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_228
+      rect:
+        serializedVersion: 2
+        x: 2483
+        y: 62
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2512d4ee1b97f79d0800000000000000
+      internalID: -2774365040322731694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_229
+      rect:
+        serializedVersion: 2
+        x: 2498
+        y: 63
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ea4943ffa63d9810800000000000000
+      internalID: 1773633957582686953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_230
+      rect:
+        serializedVersion: 2
+        x: 2510
+        y: 63
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba47ad7546bb78d00800000000000000
+      internalID: 974953883994059947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_231
+      rect:
+        serializedVersion: 2
+        x: 2517
+        y: 64
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03bc0ce514f980ff0800000000000000
+      internalID: -69630691112858832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_232
+      rect:
+        serializedVersion: 2
+        x: 2524
+        y: 65
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58b44e88b2cedd790800000000000000
+      internalID: -7503581732404966523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_233
+      rect:
+        serializedVersion: 2
+        x: 2530
+        y: 63
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd451a4222faec350800000000000000
+      internalID: 6038956711528715484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_234
+      rect:
+        serializedVersion: 2
+        x: 2536
+        y: 63
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ea68456642b06f00800000000000000
+      internalID: 1108081523749841641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_235
+      rect:
+        serializedVersion: 2
+        x: 2543
+        y: 59
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51860202548267990800000000000000
+      internalID: -7388673861297870827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_236
+      rect:
+        serializedVersion: 2
+        x: 2555
+        y: 61
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8480d4a6a55c991a0800000000000000
+      internalID: -6802188770045261752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_237
+      rect:
+        serializedVersion: 2
+        x: 2563
+        y: 60
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab2216cb4ce7fbcf0800000000000000
+      internalID: -234329272160804166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_238
+      rect:
+        serializedVersion: 2
+        x: 3473
+        y: 68
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 122608dea2ee50420800000000000000
+      internalID: 2595742628389610017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_239
+      rect:
+        serializedVersion: 2
+        x: 5040
+        y: 61
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8deff05ede821220800000000000000
+      internalID: 2455181832363175309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_240
+      rect:
+        serializedVersion: 2
+        x: 5055
+        y: 59
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21662cc81f5c2cc50800000000000000
+      internalID: 6684122438210577938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_241
+      rect:
+        serializedVersion: 2
+        x: 5080
+        y: 62
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ced6f7e8f47a6100800000000000000
+      internalID: 102022553961684678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_242
+      rect:
+        serializedVersion: 2
+        x: 5091
+        y: 59
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28662eab2046503c0800000000000000
+      internalID: -4393995898541939070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_243
+      rect:
+        serializedVersion: 2
+        x: 5116
+        y: 57
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c00cea2c55b89ce0800000000000000
+      internalID: -1398168276836810560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_244
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 56
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd5b97ac4e8e1a060800000000000000
+      internalID: 6963102568238659039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_245
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 57
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56ba15758149d4380800000000000000
+      internalID: -8985362849269175451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_246
+      rect:
+        serializedVersion: 2
+        x: 1919
+        y: 44
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22e1f288e2e39d590800000000000000
+      internalID: -7649014122537869790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_247
+      rect:
+        serializedVersion: 2
+        x: 1932
+        y: 47
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fd0b175324052640800000000000000
+      internalID: 5054450706625007095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_248
+      rect:
+        serializedVersion: 2
+        x: 1940
+        y: 47
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 794ef814c8e5a3bf0800000000000000
+      internalID: -343858465052040041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_249
+      rect:
+        serializedVersion: 2
+        x: 1948
+        y: 44
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28db014d9f2f3b4e0800000000000000
+      internalID: -1966961457412129406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_250
+      rect:
+        serializedVersion: 2
+        x: 5026
+        y: 56
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa5b34971ca13e750800000000000000
+      internalID: 6332934919278540207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_251
+      rect:
+        serializedVersion: 2
+        x: 5666
+        y: 44
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b724449f65ac3fff0800000000000000
+      internalID: -3436699799240069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_252
+      rect:
+        serializedVersion: 2
+        x: 5686
+        y: 48
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05338f870c8e25610800000000000000
+      internalID: 1608603930285585232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_253
+      rect:
+        serializedVersion: 2
+        x: 5706
+        y: 49
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b18bddf6d67b6ef30800000000000000
+      internalID: 4604569349689030683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_254
+      rect:
+        serializedVersion: 2
+        x: 5716
+        y: 42
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7e79199a31b82930800000000000000
+      internalID: 4118736724465122938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_255
+      rect:
+        serializedVersion: 2
+        x: 5736
+        y: 39
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e017d27c4841a96e0800000000000000
+      internalID: -1830127738062802674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_256
+      rect:
+        serializedVersion: 2
+        x: 1904
+        y: 46
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38375e0a2bb1c8180800000000000000
+      internalID: -9111877492059835517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_257
+      rect:
+        serializedVersion: 2
+        x: 1960
+        y: 42
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8234ad9fad565fcf0800000000000000
+      internalID: -219157015688494296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_258
+      rect:
+        serializedVersion: 2
+        x: 1966
+        y: 42
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33639d9889008b840800000000000000
+      internalID: 5239938821593314867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_259
+      rect:
+        serializedVersion: 2
+        x: 1978
+        y: 45
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 455f5531add04bed0800000000000000
+      internalID: -2399277471203199660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_260
+      rect:
+        serializedVersion: 2
+        x: 5648
+        y: 48
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc19caeef380e1b10800000000000000
+      internalID: 1954008359005622733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_261
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 28
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef48af25be33733c0800000000000000
+      internalID: -4379975026792037122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_262
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 27
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0c5f0f24888d04c0800000000000000
+      internalID: -4319646366271841266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_263
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 26
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50577e81ec1f6daf0800000000000000
+      internalID: -371844051728108283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_264
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 24
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0feec83da5aabafa0800000000000000
+      internalID: -5788345588981633296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_265
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 26
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeeeff727add19830800000000000000
+      internalID: 4076282847747370730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: front plants_266
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 27
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 214930c5c9704e190800000000000000
+      internalID: -7934208275379940334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      front plants_0: 3973760272440615745
+      front plants_1: -2548979433911517260
+      front plants_10: 7047959141145958911
+      front plants_100: 10769661475973607
+      front plants_101: -6570286960269340221
+      front plants_102: -1028506823652510337
+      front plants_103: -8960406420165577371
+      front plants_104: 3359070328937409899
+      front plants_105: -2221688781256712656
+      front plants_106: -8850872936164158089
+      front plants_107: 3616581185255624323
+      front plants_108: -2988734199163824428
+      front plants_109: 4961789049715595797
+      front plants_11: 7561698052689307310
+      front plants_110: 6858648534236979271
+      front plants_111: -1542417237740768090
+      front plants_112: 5362251367809615224
+      front plants_113: -8776317266298156272
+      front plants_114: 5925550638537571939
+      front plants_115: -4873484283207892543
+      front plants_116: 844747908727206845
+      front plants_117: 5678219304051185701
+      front plants_118: 8525905539157370372
+      front plants_119: 5845609488957432346
+      front plants_12: -7522345920785071895
+      front plants_120: 8231288483749180205
+      front plants_121: 8981470509943792055
+      front plants_122: 7100665535245427535
+      front plants_123: 8405017164710286420
+      front plants_124: -48419067793946528
+      front plants_125: -6439051672942354705
+      front plants_126: 1723690464084812088
+      front plants_127: -7518432929217048307
+      front plants_128: -2036055298870098346
+      front plants_129: 1142585385314830805
+      front plants_13: -7252953405637874782
+      front plants_130: -1533442370161914660
+      front plants_131: -8175650203511699437
+      front plants_132: 5142893394051001597
+      front plants_133: 8530870997476152232
+      front plants_134: 8433346488557762069
+      front plants_135: -6167968891687905225
+      front plants_136: 7816652680839909163
+      front plants_137: -8393500574251815631
+      front plants_138: 4792010519479430425
+      front plants_139: 7093396203608212628
+      front plants_14: -4200891305138838980
+      front plants_140: 4299166717519935983
+      front plants_141: 5137240959243628241
+      front plants_142: 1332981252048079299
+      front plants_143: 2514326685751402999
+      front plants_144: -124592226857716197
+      front plants_145: 2104817458467583149
+      front plants_146: 518102647760631598
+      front plants_147: 7548634564077963900
+      front plants_148: 8155430576900358020
+      front plants_149: -1045187133111508236
+      front plants_15: 6361075213189077802
+      front plants_150: -1527260992369717426
+      front plants_151: -1947385885901648281
+      front plants_152: -8487023294813329278
+      front plants_153: -1305705051261638511
+      front plants_154: 8660963478953243910
+      front plants_155: 7465679459720338654
+      front plants_156: -8908544609485556841
+      front plants_157: -2858080347863681684
+      front plants_158: 7347488469440316549
+      front plants_159: -203195233706314997
+      front plants_16: -3955761034660090786
+      front plants_160: -1997871103814068814
+      front plants_161: -2547169237293812515
+      front plants_162: 4024059085191601221
+      front plants_163: -5484339209054244281
+      front plants_164: -6845633176297331661
+      front plants_165: 1083044518120868398
+      front plants_166: -4677437616264315021
+      front plants_167: -5790331307341836554
+      front plants_168: 2001721505756379636
+      front plants_169: 8744120523061971546
+      front plants_17: 6017148046087334722
+      front plants_170: -6651420132205132964
+      front plants_171: -7618539297916301270
+      front plants_172: -3639995454419141687
+      front plants_173: 6331120865200923955
+      front plants_174: 1493142890853206997
+      front plants_175: 1147900401657489637
+      front plants_176: -478979892263999896
+      front plants_177: 4810656635039708950
+      front plants_178: 4293053033843865911
+      front plants_179: 1584162970091656358
+      front plants_18: 2975035767524462347
+      front plants_180: -2963274599303305792
+      front plants_181: 8539567259814736826
+      front plants_182: -8101397558059161979
+      front plants_183: 4792902455609245333
+      front plants_184: -3812221777237532309
+      front plants_185: -1570874118464502232
+      front plants_186: 6512766734026194853
+      front plants_187: 8242095566269001827
+      front plants_188: -8549496025694054605
+      front plants_189: -871442351999643224
+      front plants_19: 5762151886666254106
+      front plants_190: 524919393676563434
+      front plants_191: 516317829638965235
+      front plants_192: 5978230381601700230
+      front plants_193: -6535322511286625954
+      front plants_194: -5205759207338279642
+      front plants_195: -5784500867883161466
+      front plants_196: 6827728740874317455
+      front plants_197: -2317464615055649389
+      front plants_198: -3611566788924744916
+      front plants_199: 389924855179713961
+      front plants_2: 6130484601393479964
+      front plants_20: -8318031581609323911
+      front plants_200: -7880582320507206152
+      front plants_201: -760609646783728917
+      front plants_202: -4279601217312269663
+      front plants_203: 7985139635312415444
+      front plants_204: 1782166722823444280
+      front plants_205: 6295682375894497502
+      front plants_206: -6323450593536797907
+      front plants_207: -223874921268076618
+      front plants_208: 6918923808019844832
+      front plants_209: -126950614791603168
+      front plants_21: -9071663655565522700
+      front plants_210: 7413053145083064149
+      front plants_211: -3622634784941148575
+      front plants_212: -2030712339918183286
+      front plants_213: 2759296788759181549
+      front plants_214: 8041322244484069758
+      front plants_215: -5075221422605602289
+      front plants_216: 1908226534824703198
+      front plants_217: -7024727066814924441
+      front plants_218: -6472618358933535377
+      front plants_219: 3486706729295634777
+      front plants_22: -37673295755308339
+      front plants_220: 6882303623604028884
+      front plants_221: -8053699116958509572
+      front plants_222: -3450483357250827692
+      front plants_223: 6551440469281023241
+      front plants_224: 1373758904380270529
+      front plants_225: 4406374347312357107
+      front plants_226: -7644556210345527564
+      front plants_227: -8516146605161622978
+      front plants_228: -2774365040322731694
+      front plants_229: 1773633957582686953
+      front plants_23: -1258991072762031673
+      front plants_230: 974953883994059947
+      front plants_231: -69630691112858832
+      front plants_232: -7503581732404966523
+      front plants_233: 6038956711528715484
+      front plants_234: 1108081523749841641
+      front plants_235: -7388673861297870827
+      front plants_236: -6802188770045261752
+      front plants_237: -234329272160804166
+      front plants_238: 2595742628389610017
+      front plants_239: 2455181832363175309
+      front plants_24: 6942787693959758022
+      front plants_240: 6684122438210577938
+      front plants_241: 102022553961684678
+      front plants_242: -4393995898541939070
+      front plants_243: -1398168276836810560
+      front plants_244: 6963102568238659039
+      front plants_245: -8985362849269175451
+      front plants_246: -7649014122537869790
+      front plants_247: 5054450706625007095
+      front plants_248: -343858465052040041
+      front plants_249: -1966961457412129406
+      front plants_25: 8649469913777341361
+      front plants_250: 6332934919278540207
+      front plants_251: -3436699799240069
+      front plants_252: 1608603930285585232
+      front plants_253: 4604569349689030683
+      front plants_254: 4118736724465122938
+      front plants_255: -1830127738062802674
+      front plants_256: -9111877492059835517
+      front plants_257: -219157015688494296
+      front plants_258: 5239938821593314867
+      front plants_259: -2399277471203199660
+      front plants_26: -3574320578530283239
+      front plants_260: 1954008359005622733
+      front plants_261: -4379975026792037122
+      front plants_262: -4319646366271841266
+      front plants_263: -371844051728108283
+      front plants_264: -5788345588981633296
+      front plants_265: 4076282847747370730
+      front plants_266: -7934208275379940334
+      front plants_27: -6058160398820111309
+      front plants_28: -3469720608708316761
+      front plants_29: -4299010878406550391
+      front plants_3: -7860277207266011278
+      front plants_30: -2997937219924719090
+      front plants_31: -5795240261572546911
+      front plants_32: 4947876570434482810
+      front plants_33: -1424736868432580541
+      front plants_34: -5666508698223436045
+      front plants_35: 8535582147413336860
+      front plants_36: 3153639923042453078
+      front plants_37: 4978945849992725307
+      front plants_38: 1227950321295652894
+      front plants_39: 5103802374350610662
+      front plants_4: 3962449405528386330
+      front plants_40: -5531673386406733021
+      front plants_41: -7250418366792108326
+      front plants_42: 7297007758458242248
+      front plants_43: -4884736938804767546
+      front plants_44: 8670673263455552184
+      front plants_45: -1598318957698045302
+      front plants_46: -9127917873900643329
+      front plants_47: -5290418115331464748
+      front plants_48: -1220763814167470492
+      front plants_49: -8465643927019601871
+      front plants_5: -5393875899090497001
+      front plants_50: 9065310679654811907
+      front plants_51: 7661175726948807675
+      front plants_52: -4298008846627677533
+      front plants_53: 1896705189906583217
+      front plants_54: 226251756377144703
+      front plants_55: -2848140521490562102
+      front plants_56: 659839961766566713
+      front plants_57: -5623630340077099292
+      front plants_58: 2275802021794171231
+      front plants_59: -2960771788198064583
+      front plants_6: -3400393078331326102
+      front plants_60: -5842061395127692784
+      front plants_61: 4770877280475165001
+      front plants_62: -1467487526389557077
+      front plants_63: 4631063087630435689
+      front plants_64: -5195179414974511648
+      front plants_65: 6822326595662200614
+      front plants_66: 9126823185136439574
+      front plants_67: 9203408906932181057
+      front plants_68: 1503230607926841769
+      front plants_69: 7455937355839799050
+      front plants_7: 635207701756131217
+      front plants_70: -8664568134685906927
+      front plants_71: 6001661373453822741
+      front plants_72: 2073132547197645429
+      front plants_73: 3689570702046838687
+      front plants_74: 5124598422062814721
+      front plants_75: -7271424964279295017
+      front plants_76: -772751247186292231
+      front plants_77: -2673354732966599094
+      front plants_78: -8635945132777386968
+      front plants_79: 3891360080872742824
+      front plants_8: -4170075529981774405
+      front plants_80: -4864169572018263799
+      front plants_81: 3041435593004751325
+      front plants_82: 6718082743483780919
+      front plants_83: -4825330086225930551
+      front plants_84: -3663872957031087935
+      front plants_85: 9221236128651436318
+      front plants_86: -6255627448748886565
+      front plants_87: 531730577185813445
+      front plants_88: 4704682880350261686
+      front plants_89: 3098747920022137103
+      front plants_9: -5882391345106073334
+      front plants_90: -4741417724902422233
+      front plants_91: 420528508176290486
+      front plants_92: 13937510756503216
+      front plants_93: -7662530209600888803
+      front plants_94: -782833667810253996
+      front plants_95: 7334241859990734922
+      front plants_96: 2460277133641523580
+      front plants_97: -4531437979583526712
+      front plants_98: -6997049723803733287
+      front plants_99: -7999536302138818587
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
