@@ -1,0 +1,6 @@
+Everything in this folder is provided under the CC BY 4.0 license. 
+View the full license here: https://creativecommons.org/licenses/by/4.0/
+
+In summary, you may do as you wish with it, so long as you credit me the original author. Using my bussiness tag "Digineaux" or preferably my website URL "Digineaux.com" in the credits of a finished software/game or as a script comment or similar in a modified script you are reselling is sufficent.
+
+In regards to tracking changes made, I am not strict. A summary as short as a sentence or a changelog is fine.
