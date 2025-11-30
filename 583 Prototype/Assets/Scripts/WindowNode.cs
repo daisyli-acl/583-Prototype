@@ -11,6 +11,9 @@ public class WindowNode : MonoBehaviour
     public WindowNode nextWindow;      // logical next window in the chain
     public bool isFinalWindow = false; // mark the last window
 
+    [Header("Blocking obstacles in this window (optional, UI RectTransforms)")]
+    public RectTransform[] blockingObstacles;
+
     [Header("Connection rules")]
     [Tooltip("Minimum vertical overlap height (in screen pixels) to count as connected.")]
     public float minVerticalOverlap = 40f;
@@ -57,10 +60,6 @@ public class WindowNode : MonoBehaviour
         return Rect.MinMaxRect(xMin, yMin, xMax, yMax);
     }
 
-    /// <summary>
-    /// Current window is in SMALL state?
-    /// We only look at scale.x compared to original.
-    /// </summary>
     public bool IsSmallNow()
     {
         if (!originalRecorded || windowRect == null)
@@ -89,16 +88,14 @@ public class WindowNode : MonoBehaviour
         if (!IsSmallNow() || !nextWindow.IsSmallNow())
             return false;
 
-
-        Rect a = GetWindowScreenRect();            // current window
-        Rect b = nextWindow.GetWindowScreenRect();// next window
+        Rect a = GetWindowScreenRect();             // current window
+        Rect b = nextWindow.GetWindowScreenRect();  // next window
 
         float overlapHeight = Mathf.Min(a.yMax, b.yMax) - Mathf.Max(a.yMin, b.yMin);
         if (overlapHeight < minVerticalOverlap)
             return false;
 
         float diff = b.xMin - a.xMax;
-
 
         if (diff > 0f)
             return false;

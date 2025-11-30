@@ -650,6 +650,8 @@ MonoBehaviour:
   - {fileID: 406918096}
   - {fileID: 561973627}
   - {fileID: 261366571}
+  loadNextByBuildIndex: 1
+  nextSceneName: 
 --- !u!95 &108691125
 Animator:
   serializedVersion: 7
