@@ -305,6 +305,8 @@ MonoBehaviour:
   - {fileID: 1001564216}
   - {fileID: 1029161876}
   - {fileID: 516925653}
+  loadNextByBuildIndex: 1
+  nextSceneName: 
 --- !u!212 &108691125
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -1237,7 +1239,7 @@ GameObject:
   - component: {fileID: 516925652}
   - component: {fileID: 516925653}
   m_Layer: 0
-  m_Name: Checkpoint 5
+  m_Name: End & Load next level
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1270,7 +1272,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2fecc34d933943941a09239d0e1f1807, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isCleared: 0
+  isCleared: 1
 --- !u!1 &519420028
 GameObject:
   m_ObjectHideFlags: 0
