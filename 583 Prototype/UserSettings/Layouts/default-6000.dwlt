@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1706.6667
     height: 976
   m_ShowMode: 4
-  m_Title: Hierarchy
+  m_Title: Game
   m_RootView: {fileID: 2}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -120,7 +120,7 @@ MonoBehaviour:
   m_MinSize: {x: 400, y: 100}
   m_MaxSize: {x: 32384, y: 16192}
   vertical: 0
-  controlID: 36
+  controlID: 35
   draggingID: 0
 --- !u!114 &6
 MonoBehaviour:
@@ -172,7 +172,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 1
-  controlID: 37
+  controlID: 36
   draggingID: 0
 --- !u!114 &8
 MonoBehaviour:
@@ -198,7 +198,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 50}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-  controlID: 38
+  controlID: 37
   draggingID: 0
 --- !u!114 &9
 MonoBehaviour:
@@ -450,15 +450,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-<<<<<<< HEAD
-      m_SelectedIDs: 44c00000
-      m_LastClickedID: 49220
-      m_ExpandedIDs: 44e8ffff60e9ffffa0f2ffffc2f4ffff5ef6ffff56f7ffff0afbffff12b90000c6b9000074bb0000c2bb00004ec2000072c20000
-=======
       m_SelectedIDs: 
       m_LastClickedID: 0
       m_ExpandedIDs: 84f5ffff0afbffffccb100007cb20000
->>>>>>> dff99668731cda2f309f684a0b184b6441667984
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -1104,13 +1098,9 @@ MonoBehaviour:
   m_AudioPlay: 0
   m_DebugDrawModesUseInteractiveLightBakingData: 0
   m_Position:
-<<<<<<< HEAD
-    m_Target: {x: 1300.2559, y: 153.7581, z: -5.776074}
-=======
     m_Target: {x: -24.712332, y: -2.623492, z: -0.10665852}
->>>>>>> dff99668731cda2f309f684a0b184b6441667984
     speed: 2
-    m_Value: {x: 1300.2559, y: 153.7581, z: -5.776074}
+    m_Value: {x: 1910.0281, y: 851.59845, z: -35.854168}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -1160,13 +1150,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-<<<<<<< HEAD
-    m_Target: 585.64905
-=======
     m_Target: 5.8196607
->>>>>>> dff99668731cda2f309f684a0b184b6441667984
     speed: 2
-    m_Value: 585.64905
+    m_Value: 3593.4695
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -1859,7 +1845,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Scenes
+    - Assets
     m_Globs: []
     m_ProductIds: 
     m_AnyWithAssetOrigin: 0
@@ -1869,22 +1855,16 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 16
   m_LastFolders:
-  - Assets/Scenes
+  - Assets
   m_LastFoldersGridSize: 16
   m_LastProjectPath: C:\Users\aoche\OneDrive\Desktop\583-Prototype\583 Prototype
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-<<<<<<< HEAD
-    m_SelectedIDs: 04b50000
-    m_LastClickedID: 46340
-    m_ExpandedIDs: 000000009ab400009cb400009eb4000000ca9a3b
-=======
     m_SelectedIDs: 92b40000
     m_LastClickedID: 46226
     m_ExpandedIDs: 0000000082b60000
->>>>>>> dff99668731cda2f309f684a0b184b6441667984
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1913,11 +1893,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 7e020000
     m_LastClickedID: 638
-<<<<<<< HEAD
-    m_ExpandedIDs: 000000009ab400009cb400009eb40000
-=======
     m_ExpandedIDs: 0000000082b60000
->>>>>>> dff99668731cda2f309f684a0b184b6441667984
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1949,18 +1925,18 @@ MonoBehaviour:
     m_ExpandedInstanceIDs: c6230000c6a900005eb60000b8b6000026b70000f4b60000d81d010000000000b4b50000beb500002ab30000b4c20000ccc000000eb4000014b400003ab4000044b4000050b4000012c9000080b20000c4b20000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: Level2
-      m_OriginalName: Level2
+      m_Name: 
+      m_OriginalName: 
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 46396
+      m_UserData: 0
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 0
+      m_OriginalEventType: 11
       m_IsRenamingFilename: 1
       m_TrimLeadingAndTrailingWhitespace: 0
       m_ClientGUIView: {fileID: 11}
@@ -1971,7 +1947,7 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
     m_NewAssetIndexInList: -1
-    m_ScrollPosition: {x: 0, y: 0}
+    m_ScrollPosition: {x: 0, y: 13}
     m_GridSize: 16
   m_SkipHiddenPackages: 0
   m_DirectoriesAreaWidth: 199
