@@ -1,27 +1,41 @@
 ﻿using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class CameraMover2D : MonoBehaviour
 {
     public float moveSpeed = 3f;
     public Checkpoint[] checkpoints;
 
+    [Header("Level transition")]
+    public bool loadNextByBuildIndex = true; // true: load next build index, false: use nextSceneName
+    public string nextSceneName;             // used when loadNextByBuildIndex == false
+
     private int currentIndex = 0;
+    private bool hasLoadedNextScene = false;
 
     void Update()
     {
-        if (currentIndex >= checkpoints.Length)
+        if (hasLoadedNextScene)
             return;
 
-        Checkpoint cp = checkpoints[currentIndex];
+        // All checkpoints passed -> level complete
+        if (currentIndex >= checkpoints.Length)
+        {
+            HandleLevelComplete();
+            return;
+        }
 
-        // Target X position only
+        Checkpoint cp = checkpoints[currentIndex];
+        if (cp == null)
+            return;
+
+        // Move camera horizontally to checkpoint.x
         Vector3 target = new Vector3(
             cp.transform.position.x,
             transform.position.y,
             transform.position.z
         );
 
-        // If we have NOT reached the checkpoint yet → KEEP MOVING
         if (transform.position.x != target.x)
         {
             transform.position = Vector3.MoveTowards(
@@ -29,24 +43,46 @@ public class CameraMover2D : MonoBehaviour
                 target,
                 moveSpeed * Time.deltaTime
             );
-
-            return; // still moving, no need to check clearing
+            return;
         }
 
-        // We reached the checkpoint
-
-        // Trigger loading bar activation (ONLY once when arriving)
+        // Activate checkpoint logic (loading bar, etc.)
         CheckpointActivator activator = cp.GetComponent<CheckpointActivator>();
         if (activator != null && !cp.isCleared)
         {
             activator.Activate();
         }
 
-        // WAIT here until checkpoint is cleared
+        // Wait until this checkpoint is cleared
         if (!cp.isCleared)
             return;
 
-        // Continue to next checkpoint
+        // Go to next checkpoint
         currentIndex++;
+    }
+
+    private void HandleLevelComplete()
+    {
+        if (hasLoadedNextScene)
+            return;
+
+        hasLoadedNextScene = true;
+
+        if (loadNextByBuildIndex)
+        {
+            int buildIndex = SceneManager.GetActiveScene().buildIndex;
+            SceneManager.LoadScene(buildIndex + 1);
+        }
+        else
+        {
+            if (!string.IsNullOrEmpty(nextSceneName))
+            {
+                SceneManager.LoadScene(nextSceneName);
+            }
+            else
+            {
+                Debug.LogWarning("CameraMover2D: nextSceneName is empty and loadNextByBuildIndex is false.");
+            }
+        }
     }
 }
