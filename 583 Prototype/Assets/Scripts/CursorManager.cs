@@ -1,4 +1,5 @@
 using UnityEngine;
+using UnityEngine.SceneManagement; 
 
 public enum CursorType
 {
@@ -20,6 +21,10 @@ public class CursorManager : MonoBehaviour
 
     public Vector2 hotSpot = Vector2.zero;
 
+
+    [Header("Settings")]
+    public string[] activeScenes = { "Level1", "Level2" };
+
     private CursorType currentType = CursorType.None;
 
     private void Awake()
@@ -31,8 +36,46 @@ public class CursorManager : MonoBehaviour
         }
 
         Instance = this;
-        DontDestroyOnLoad(gameObject);
+        DontDestroyOnLoad(gameObject); 
         SetNormal();
+    }
+
+
+    private void OnEnable()
+    {
+        SceneManager.sceneLoaded += OnSceneLoaded;
+    }
+
+
+    private void OnDisable()
+    {
+        SceneManager.sceneLoaded -= OnSceneLoaded;
+    }
+
+
+    private void OnSceneLoaded(Scene scene, LoadSceneMode mode)
+    {
+        bool isAllowed = false;
+
+
+        foreach (string allowedName in activeScenes)
+        {
+            if (scene.name == allowedName)
+            {
+                isAllowed = true;
+                break;
+            }
+        }
+
+
+        if (!isAllowed)
+        {
+
+            Cursor.SetCursor(null, Vector2.zero, CursorMode.Auto);
+
+            Debug.Log($"[CursorManager] Scene '{scene.name}' not in active list. Destroying CursorManager.");
+            Destroy(gameObject);
+        }
     }
 
     private void SetCursor(Texture2D texture, CursorType type)
