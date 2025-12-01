@@ -12,7 +12,9 @@ public class WindowAutoPlayerController : MonoBehaviour
     [Header("Animation")]
     public Sprite[] walkFrames;         // 4 walking frames
     public float frameRate = 8f;        // frames per second
-    public float moveThreshold = 0.1f;  // min movement to count as "moving"
+
+
+    // public float moveThreshold = 0.1f; 
 
     [Header("Current window")]
     public WindowNode currentWindow;
@@ -81,13 +83,13 @@ public class WindowAutoPlayerController : MonoBehaviour
         float deltaX = moveSpeed * Time.deltaTime;
         float targetX = pos.x + deltaX;
 
-        // 先处理障碍物：如果会撞到，就把 targetX 往回夹
+
         targetX = ApplyObstacleBlocking(pos.x, targetX);
 
         WindowNode next = currentWindow.nextWindow;
         bool canConnectToNext = currentWindow.IsCorrectlyConnectedToNext();
 
-        // 尝试进入下一个窗口（只在没有被障碍卡住、而且接近右边缘时）
+
         if (next != null && canConnectToNext && targetX > halfW - edgePadding)
         {
             EnterNextWindow(next);
@@ -115,9 +117,8 @@ public class WindowAutoPlayerController : MonoBehaviour
 
         float deltaX = targetX - currentX;
         if (deltaX <= 0f)
-            return targetX; // 现在只考虑向右走的情况
+            return targetX;
 
-        // 计算玩家的半宽（带缩放）
         Vector2 pSize = playerRect.rect.size;
         Vector3 pScale = playerRect.localScale;
         float pHalfW = pSize.x * Mathf.Abs(pScale.x) * 0.5f;
@@ -127,20 +128,16 @@ public class WindowAutoPlayerController : MonoBehaviour
             if (obst == null || !obst.gameObject.activeInHierarchy)
                 continue;
 
-            // 障碍物的半宽
             Vector2 oSize = obst.rect.size;
             Vector3 oScale = obst.localScale;
             float oHalfW = oSize.x * Mathf.Abs(oScale.x) * 0.5f;
 
-            // anchoredPosition.x：在同一个 content 下的局部坐标
             float obstCenterX = obst.anchoredPosition.x;
             float obstLeft = obstCenterX - oHalfW;
 
-            // 玩家当前的右侧边
             float playerRightNow = currentX + pHalfW;
             float playerRightNext = targetX + pHalfW;
 
-            // 只在玩家在障碍物左边，并且下一帧会穿过障碍物左边的时候，才要卡住
             if (playerRightNow <= obstLeft && playerRightNext > obstLeft)
             {
                 float stopX = obstLeft - pHalfW - obstaclePadding;
@@ -186,7 +183,19 @@ public class WindowAutoPlayerController : MonoBehaviour
 
         Vector2 currentPos = playerRect.anchoredPosition;
         float distance = Vector2.Distance(currentPos, lastPosition);
-        bool isMoving = distance > moveThreshold;
+
+
+        bool isMoving = false;
+        if (Time.deltaTime > 0f)
+        {
+            float currentSpeed = distance / Time.deltaTime;
+            isMoving = currentSpeed > 1f;
+        }
+        else
+        {
+            isMoving = distance > 0.001f;
+        }
+
 
         if (!isMoving)
         {
